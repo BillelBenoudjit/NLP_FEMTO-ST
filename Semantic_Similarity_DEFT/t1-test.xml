@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+    <paire id = "1" vote = "4" moy = "3.8" scores = "5,4,4,3,3">
+        <source>- Chez les patients présentant une absence complète d'activité de la dihydro-pyrimidine-déshydrogénase (DPD).</source>
+        <cible>- Si vous savez que vous n'avez aucune activité de l'enzyme dihydropyrimidine déshydrogénase (DPD).</cible>
+    </paire>
+    <paire id = "2" vote = "5" moy = "4.7" scores = "5,4.5,4,5,5">
+        <source>- Eviter le contact de l'embout avec l'œil ou les paupières.</source>
+        <cible>Evitez le contact de l'embout du flacon avec l'œil ou les paupières.</cible>
+    </paire>
+    <paire id = "3" vote = "3" moy = "3.4" scores = "4,2,3,3,5">
+        <source>- L'utilisation prolongée de l'huile de paraffine est susceptible de réduire l'absorption des vitamines liposolubles (A, D, E, K).</source>
+        <cible>- L'utilisation prolongée de l'huile de paraffine est susceptible de diminuer l'absorption de certaines vitamines.</cible>
+    </paire>
+    <paire id = "4" vote = "5" moy = "4.9" scores = "5,4.5,5,5,5">
+        <source>- Ne pas dépasser la posologie recommandée.</source>
+        <cible>Ne dépassez pas la posologie recommandée.</cible>
+    </paire>
+    <paire id = "5" vote = "5" moy = "4.4" scores = "5,4,3,5,5">
+        <source>- Refermez le flacon immédiatement après utilisation.</source>
+        <cible>Refermez soigneusement le flacon après utilisation.</cible>
+    </paire>
+    <paire id = "6" vote = "5" moy = "4.8" scores = "5,4,5,5,5">
+        <source>- Se laver soigneusement les mains avant de pratiquer l'instillation.</source>
+        <cible>Lavez-vous soigneusement les mains avant de procéder à l'instillation.</cible>
+    </paire>
+    <paire id = "7" vote = "5" moy = "5" scores = "5,5,5,5,5">
+        <source>- Tous les patients doivent poursuivre leur régime alimentaire, avec une répartition régulière de l'apport glucidique au cours de la journée.</source>
+        <cible>Tous les patients doivent poursuivre le régime alimentaire, avec une répartition régulière de l'apport glucidique au cours de la journée.</cible>
+    </paire>
+    <paire id = "8" vote = "0" moy = "0.5" scores = "2,0.5,0,0,0">
+        <source>« Simple croisement de pistes dans un désert aride, caillouteux et nu que balaient les vents de sable, Bir Hakeim est vu de partout.</source>
+        <cible>Bir Hakeim est un petit point d'eau (Bir signifie « puits » en arabe), situé dans le nord du désert libyen.</cible>
+    </paire>
+    <paire id = "9" vote = "0" moy = "0.2" scores = "0,0,1,0,0">
+        <source>À 13 h, 130 avions germano-italiens bombardent le côté nord du camp, l'infanterie allemande lance son attaque tout en étant couverte par la 15e Panzerdivision qui bombarde elle aussi fortement les Français.</source>
+        <cible>Dans des conditions difficiles, les Français ralentissent pendant seize jours la progression de l'Afrika Korps du général allemand Erwin Rommel.</cible>
+    </paire>
+    <paire id = "10" vote = "1" moy = "1.3" scores = "2,0.5,1,1,2">
+        <source>À cette époque, les gardiens de but ne portaient pas encore de masque protecteur car on croyait que ceux-ci nuiraient à leur vision.</source>
+        <cible>Le 1er novembre 1959 Jacques Plante, devient le premier gardien de but de la LNH a porté un masque protecteur à chaque partie.</cible>
+    </paire>
+    <paire id = "11" vote = "0" moy = "1" scores = "1,0,2,0,2">
+        <source>À la mort du tsar, plusieurs grandes familles (Galitzine, Romanov) peuvent prétendre au trône, mais aucune ne fait acte de candidature, car l'aristocratie a été affaiblie par le pouvoir tsariste, sous le règne d'Ivan IV puis sous celui de Fédor Ier.</source>
+        <cible>Une période de troubles s'installe alors en Russie, elle prendra fin avec l'élection du tsar Michel Romanov en 1613.</cible>
+    </paire>
+    <paire id = "12" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>À la suite de cette réunion, Frank Calder devient le premier président de la ligue.</source>
+        <cible>En 1993, les Canadiens remportent leur 24e coupe Stanley.</cible>
+    </paire>
+    <paire id = "13" vote = "4" moy = "3.3" scores = "3,2.5,4,4,3">
+        <source>À partir de la Révolution, le terme aristocratie a été employé à tort pour désigner la noblesse.</source>
+        <cible>Faites attention, il arrive que l'on confonde l'aristocratie avec la noblesse.</cible>
+    </paire>
+    <paire id = "14" vote = "2.5" moy = "1.7" scores = "3,2.5,2,1,0">
+        <source>À plus long terme, le ralentissement de la manœuvre de Rommel a permis aux forces britanniques d'échapper à l'anéantissement prévu par l'Axe.</source>
+        <cible>Cela va permettre aux troupes anglaises du maréchal Bernard Montgomery de se replier, puis de vaincre, au cours de la première bataille d'El Alamein.</cible>
+    </paire>
+    <paire id = "15" vote = "4" moy = "3.9" scores = "4,4.5,3,4,4">
+        <source>Alain Bombard, né le 27 octobre 1924 dans le 5e arrondissement de Paris et mort le 19 juillet 2005 à Toulon, est un docteur en biologie humaine.</source>
+        <cible>Alain Bombard, né le 27 octobre 1924 à Paris et mort le 19 juillet 2005 à Toulon, est un biologiste français, et aussi un homme politique.</cible>
+    </paire>
+    <paire id = "16" vote = "3" moy = "1.9" scores = "3,1.5,0,2,3">
+        <source>Almaty (en kazakh et en russe : Алматы), appelée Alma-Ata pendant la période soviétique, est la principale ville du Kazakhstan.</source>
+        <cible>C'est la plus grande ville du Kazakhstan.</cible>
+    </paire>
+    <paire id = "17" vote = "3" moy = "2.8" scores = "3,2,2,4,3">
+        <source>Almaty est située au centre de l'Eurasie, dans la partie sud-est de la république du Kazakhstan, au nord de la chaîne de montagne du Tian Shan.</source>
+        <cible>Almaty (en kazakh : Алматы) est une ville située dans le Sud-Est du Kazakhstan.</cible>
+    </paire>
+    <paire id = "18" vote = "5" moy = "3.9" scores = "5,2.5,3,5,4">
+        <source>Antoine résiste à tout et ne se laisse pas détourner par les visions enchanteresses qui se multiplient.</source>
+        <cible>Mais Antoine résiste, sans se laisser abuser par les visions tentatrices.</cible>
+    </paire>
+    <paire id = "19" vote = "1" moy = "0.6" scores = "1,0,0,1,1">
+        <source>Après 18 jours d'errance, ils touchent terre aux îles Baléares puis se font remorquer à Tanger mais ses détracteurs s'en donnent à cœur joie : comme ils n'avaient pêché que deux mérous, un cargo a dû se dérouter pour fournir un ravitaillement d'urgence aux deux marins écœurés du plancton.</source>
+        <cible>Pour prouver qu'on pouvait vivre sans eau ni nourriture, il traversa en solitaire l'Atlantique sans autres ressources que les poissons, le plancton, l'eau de pluie et de petites quantités d'eau de mer durant 65 jours.</cible>
+    </paire>
+    <paire id = "20" vote = "1" moy = "0.5" scores = "0,0.5,1,1,0">
+        <source>Après plusieurs tentatives non concluantes avec le caoutchouc, les essais vont se recentrer sur le verre.</source>
+        <cible>En effet, une découverte indiqua que le biberon, tel qu'il était à cette époque (sans protection, non stérilisé) pouvait apporter des maladies comme le tétanos, ce qui amena au constat du fait que « le sein protège, tandis que le biberon rend malade ».</cible>
+    </paire>
+    <paire id = "21" vote = "4" moy = "3.3" scores = "4,1.5,3,4,4">
+        <source>Artisan de ce succès, Maurice Richard entre dans l'histoire en réalisant un exploit inédit : marquer 50 buts en 50 matchs.</source>
+        <cible>Le 13 mars 1945 le légendaire Maurice Richard devient le premier joueur de la LNH a compté 50 buts en 50 parties.</cible>
+    </paire>
+    <paire id = "22" vote = "1" moy = "2" scores = "3,1,1,2,3">
+        <source>Au XIXe siècle, le trafic d'opium de la chine depuis l'inde, particulièrement par les britanniques, est à l'origine des guerres de l'opium.</source>
+        <cible>Il y eut même des guerres de l'opium en chine au XIXe siècle.</cible>
+    </paire>
+    <paire id = "23" vote = "4" moy = "3.6" scores = "4,4,2,4,4">
+        <source>Aucun essai contrôlé randomisé ni aucun essai clinique contrôlé n'a été identifié pour la revue initiale ou pour cette mise à jour.</source>
+        <cible>Cette revue n'a pas trouvé d'essais contrôlés randomisés de bonne qualité qui aient examiné l'efficacité d'une telle prise en charge multidisciplinaire, ni lors de la publication originelle en 2009 ni pour la mise à jour en 2011.</cible>
+    </paire>
+    <paire id = "24" vote = "1" moy = "0.7" scores = "1,0.5,0,1,1">
+        <source>Autrefois, la récolte du miel nécessitait de chasser les abeilles et de détruire la ruche (pressage des rayons).</source>
+        <cible>Le travail de l'apiculteur consiste à fournir aux colonies d'abeilles un logement adapté (la ruche), dans lequel elles peuvent construire des rayons de cire ; et à récolter une partie du miel qu'elle produisent.</cible>
+    </paire>
+    <paire id = "25" vote = "4" moy = "3.3" scores = "4,1.5,3,4,4">
+        <source>Batz-sur-Mer (prononcé [ bɑ syʁ mεʁ ]) est une commune de l'Ouest de la France dans le département de la Loire-Atlantique, en région Pays de la Loire.</source>
+        <cible>Batz-sur-Mer est une commune française, située dans le département de la Loire-Atlantique.</cible>
+    </paire>
+    <paire id = "26" vote = "2" moy = "2.4" scores = "2,1,2,3,4">
+        <source>Batz-sur-Mer se situe à l'ouest du département de la Loire-Atlantique, sur la façade atlantique ; elle est distante de 19,5 kilomètres, à vol d'oiseau de Saint-Nazaire, chef-lieu de l'arrondissement auquel appartient la localité.</source>
+        <cible>Batz-sur-Mer est une commune française, située dans le département de la Loire-Atlantique.</cible>
+    </paire>
+    <paire id = "27" vote = "1" moy = "1.8" scores = "3,2,2,1,1">
+        <source>Beau-frère du tsar défunt, Premier ministre, Boris Godounov n'a pas de difficulté à se faire élire tsar par un zemski sobor, assemblée comprenant les boïards, le clergé et les communes.</source>
+        <cible>Lorsque Fédor Ier meurt sans descendance (1598), Boris Godounov est élu tsar par une assemblée de nobles russes ; mais cette élection est contestée par d'autres seigneurs qui le soupçonnent d'avoir fait assassiner Dimitri, le demi-frère de Fédor Ier.</cible>
+    </paire>
+    <paire id = "28" vote = "1" moy = "0.9" scores = "1,0.5,0,1,2">
+        <source>Beaucoup d'apiculteurs récoltent le miel plusieurs fois dans l'année, notamment après chaque floraison dominante (châtaigner, colza, tournesol) pour séparer les miels.</source>
+        <cible>Le miel récolté en juin sera plutôt du miel d'acacia ou de colza.</cible>
+    </paire>
+    <paire id = "29" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Beaucoup utilisé autrefois dans les préparations médicinales traditionnelles, le miel est tombé en désuétude avec la médecine récente.</source>
+        <cible>Lorsque les alvéoles sont pleines de miel, les abeilles les ont fermées par une petite couche de cire, une opercule.</cible>
+    </paire>
+    <paire id = "30" vote = "5" moy = "4.8" scores = "5,4,5,5,5">
+        <source>Bien que la tachypnée transitoire du nouveau-né s'améliore habituellement sans traitement, elle est associée à des syndromes de respiration sifflante à un stade tardif de l'enfance.</source>
+        <cible>Bien que la tachypnée transitoire du nouveau-né se résolut habituellement sans traitement, elle est associée à des syndromes de respiration sifflante à un stade tardif de l'enfance.</cible>
+    </paire>
+    <paire id = "31" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Bir Hakeim fut la première contribution militaire d'importance des Forces françaises libres.</source>
+        <cible>Dans des conditions difficiles, les Français ralentissent pendant seize jours la progression de l'Afrika Korps du général allemand Erwin Rommel.</cible>
+    </paire>
+    <paire id = "32" vote = "1" moy = "0.9" scores = "1,0.5,1,1,1">
+        <source>Boris Fiodorovitch Godounov, en russe : Бори́с Фёдорович Годуно́в (v.1551–Moscou, 13 avril 1605), gouverne la Russie à partir de 1594 à la place de Féodor Ier, le fils d'Ivan le Terrible, et devient tsar de Russie de 1598 à sa mort subite en avril 1605.</source>
+        <cible>Lorsque Fédor Ier meurt sans descendance (1598), Boris Godounov est élu tsar par une assemblée de nobles russes ; mais cette élection est contestée par d'autres seigneurs qui le soupçonnent d'avoir fait assassiner Dimitri, le demi-frère de Fédor Ier.</cible>
+    </paire>
+    <paire id = "33" vote = "0" moy = "1.5" scores = "2,1.5,1,3,0">
+        <source>Boris Godounov meurt, subitement, le 13 avril 1605 à Moscou : on parla alors d'empoisonnement ou de suicide.</source>
+        <cible>Boris Godounov est un monarque russe qui régna de 1598 jusqu'à sa mort en 1605 sur la Russie.</cible>
+    </paire>
+    <paire id = "34" vote = "0.5" moy = "1.3" scores = "3,0.5,1,2,0">
+        <source>Boris Godounov meurt, subitement, le 13 avril 1605 à Moscou : on parla alors d'empoisonnement ou de suicide.</source>
+        <cible>Il est né en 1551 à Viazma et mort le 13 avril 1605 à Moscou, en Russie.</cible>
+    </paire>
+    <paire id = "35" vote = "0" moy = "0.8" scores = "2,0,0,0,2">
+        <source>Boulogne-sur-Mer bénéficie de grands travaux portuaires, comme l'aménagement d'un bassin circulaire sur la rive ouest dans le but d'accueillir la flotte qui devait assurer la maîtrise du détroit (on connaît cette structure sous le nom de bassin Napoléon) et la construction de deux ponts au-dessus de la Liane pour relier Capécure à Boulogne.</source>
+        <cible>Le port est industriel, d'importance régionale.</cible>
+    </paire>
+    <paire id = "36" vote = "4" moy = "3.6" scores = "4,4,2,4,4">
+        <source>Boulogne-sur-Mer est une commune française, sous-préfecture du département du Pas-de-Calais en région Hauts-de-France.</source>
+        <cible>Boulogne-sur-Mer est une ville portuaire du nord de la France, dans le département du Pas-de-Calais, région Hauts-de-France.</cible>
+    </paire>
+    <paire id = "37" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>C'est à la fin du XVIIe, mais surtout au début du XIXe siècle que le verre se généralise dans le domaine de l'allaitement artificiel.</source>
+        <cible>Il faut d'abord dévisser la tétine et mettre de l'eau (chaude ou froide selon l'utilisation souhaitée) dedans.</cible>
+    </paire>
+    <paire id = "38" vote = "4" moy = "2" scores = "2,1,0,3,4">
+        <source>C'est au cours de la révolution industrielle que les biberons en verre prennent leur essor.</source>
+        <cible>Il faut attendre le XVIIe pour que les biberons deviennent en verre.</cible>
+    </paire>
+    <paire id = "39" vote = "2" moy = "3" scores = "4,4,3,2,2">
+        <source>C'est l'ancienne capitale du Kazakhstan (1929-1997).</source>
+        <cible>La ville a été la capitale du Kazakhstan jusqu'en 1997, date à laquelle elle est remplacée par Astana.</cible>
+    </paire>
+    <paire id = "40" vote = "4" moy = "4" scores = "5,2,4,5,4">
+        <source>Ce médicament contient du parahydroxybenzoate de méthyle (e218) et peut provoquer des réactions allergiques (éventuellement retardées).</source>
+        <cible>Ce médicament contient du parahydroxybenzoate de méthyle (e218) et peut provoquer des réactions allergiques.</cible>
+    </paire>
+    <paire id = "41" vote = "4" moy = "3.6" scores = "5,4,0,4,5">
+        <source>Ce médicament est contre-indiqué dans les cas suivants.</source>
+        <cible>N'utilisez jamais diclofenac EG 1 %, gel dans les cas suivants.</cible>
+    </paire>
+    <paire id = "42" vote = "4" moy = "3.5" scores = "5,4.5,0,4,4">
+        <source>Ce médicament est contre-indiqué en cas d'hypersensibilité aux anesthésiques locaux ou à l'un des composants, et dans les situations suivantes.</source>
+        <cible>N'utilisez jamais Septanest 40 mg/ml adrenalinee au 1/200 000, solution injectable à usage dentaire en cas d'hypersensibilité (allergie) aux anesthésiques locaux ou à l'un des composants et dans les situations suivantes.</cible>
+    </paire>
+    <paire id = "43" vote = "4" moy = "3.4" scores = "5,4,0,4,4">
+        <source>Ce médicament possède un effet sédatif significatif, lequel serait le principal mécanisme d'action pour calmer et contrôler le patient.</source>
+        <cible>La thioridazine possède un effet sédatif significatif, lequel serait le principal mécanisme d'action pour calmer et contrôler le patient.</cible>
+    </paire>
+    <paire id = "44" vote = "5" moy = "4.8" scores = "5,4,5,5,5">
+        <source>Ce produit peut être administré pendant la grossesse et l'allaitement si besoin.</source>
+        <cible>Ce produit peut être utilisé pendant la grossesse et l'allaitement si besoin.</cible>
+    </paire>
+    <paire id = "45" vote = "3.5" moy = "2.5" scores = "2,3.5,0,3,4">
+        <source>Ce retard, qui permet à la 8e armée britannique de s'échapper vers El-Alamein et de s'y fortifier, a constitué un succès stratégique décisif.</source>
+        <cible>Cela va permettre aux troupes anglaises du maréchal Bernard Montgomery de se replier, puis de vaincre, au cours de la première bataille d'El Alamein.</cible>
+    </paire>
+    <paire id = "46" vote = "4" moy = "3.8" scores = "4,4,3,4,4">
+        <source>Cébazat (Sebazo en auvergnat) est une commune française située dans le département du Puy-de-Dôme, en région Auvergne-Rhône-Alpes.</source>
+        <cible>Cébazat est une ville de France, située dans le département du Puy-de-Dôme et la région Auvergne-Rhône-Alpes, et dans l'agglomération de Clermont-Ferrand.</cible>
+    </paire>
+    <paire id = "47" vote = "0" moy = "1.4" scores = "0,3,0,0,4">
+        <source>Cela passe par la protection générale contre le climat et les intrusions, par le nourrissage et les traitements anti-parasitaires.</source>
+        <cible>Surveiller et soigner les maladies et les parasites des abeilles.</cible>
+    </paire>
+    <paire id = "48" vote = "5" moy = "4.6" scores = "5,4,4,5,5">
+        <source>Cela peut être un signe de dommages cérébraux qui pourraient conduire à des anomalies de développement neurologique, notamment à une paralysie cérébrale.</source>
+        <cible>Cela peut entraîner des dommages cérébraux qui pourraient conduire à des handicaps neurologiques, notamment à une paralysie cérébrale.</cible>
+    </paire>
+    <paire id = "49" vote = "5" moy = "4.5" scores = "5,4.5,4,5,4">
+        <source>Celle-ci est un des symptômes révélateurs d'un diabète.</source>
+        <cible>C'est l'un des symptômes du diabète.</cible>
+    </paire>
+    <paire id = "50" vote = "3" moy = "3.4" scores = "5,4,3,3,2">
+        <source>Cependant, en raison des preuves limitées, nous n'avons pas pu déterminer avec confiance les effets du début plus tardif des cours.</source>
+        <cible>La qualité de ces preuves était très faible, et par conséquent, nous ne pouvons pas présumer que les résultats reflètent les véritables effets bénéfiques ou indésirables du début plus tardif des cours.</cible>
+    </paire>
+    <paire id = "51" vote = "5" moy = "4.7" scores = "5,4.5,4,5,5">
+        <source>Cependant, l'utilisation à fortes doses de paraffine liquide expose à un risque.</source>
+        <cible>L'utilisation de fortes doses de paraffine liquide expose à un risque.</cible>
+    </paire>
+    <paire id = "52" vote = "4" moy = "3.5" scores = "5,4.5,0,4,4">
+        <source>Cependant, la qualité des preuves disponibles est faible.</source>
+        <cible>Dans l'ensemble, il y avait une faible qualité des informations issues des études concernant l'ensemble des résultats.</cible>
+    </paire>
+    <paire id = "53" vote = "4" moy = "2.6" scores = "4,2,3,4,0">
+        <source>Ces études suggèrent qu'il y aurait des 'preuves de très faible qualité' montrant un avantage pour les domaines de santé mentale (uniquement) de la qualité de vie sans accroissement du coût des soins de santé, des 'preuves de faible qualité' montrant une diminution de l'hospitalisation grâce à la PCMD de faible intensité dans un cadre ambulatoire, ainsi que des 'preuves de très faible qualité' indiquant une amélioration de l'invalidité suite à une PCMD dans un cadre très intensif.</source>
+        <cible>Des preuves provenant d'études de faible qualité suggèrent que cette prise en charge peut améliorer certains aspects de la qualité de vie, réduire la fréquence et la durée des hospitalisations et améliorer l'invalidité des personnes atteintes de SLA ou MMN.</cible>
+    </paire>
+    <paire id = "54" vote = "2" moy = "1.3" scores = "2,1.5,0,2,1">
+        <source>Ces feuilles sont fixées au centre des cadres des ruches modernes et servent de base aux abeilles, qui construisent leurs alvéoles en respectant ce motif.</source>
+        <cible>Cette feuille de cire est en général soudée à un fil de fer fin, qui le cadre plus solide pour les manipulations et l'extraction.</cible>
+    </paire>
+    <paire id = "55" vote = "1" moy = "0.5" scores = "1,0.5,0,1,0">
+        <source>Ces feuilles sont fixées au centre des cadres des ruches modernes et servent de base aux abeilles, qui construisent leurs alvéoles en respectant ce motif.</source>
+        <cible>La cire utilisée pour cela a été récupérée dans des ruches, donc produite à l'origine par des abeilles.</cible>
+    </paire>
+    <paire id = "56" vote = "0" moy = "0.4" scores = "1,0,0,1,0">
+        <source>Ces feuilles sont fixées au centre des cadres des ruches modernes et servent de base aux abeilles, qui construisent leurs alvéoles en respectant ce motif.</source>
+        <cible>Lorsque les alvéoles sont pleines de miel, les abeilles les ont fermées par une petite couche de cire, une opercule.</cible>
+    </paire>
+    <paire id = "57" vote = "1" moy = "1.6" scores = "3,0,1,3,1">
+        <source>Ces feuilles sont fixées au centre des cadres des ruches modernes et servent de base aux abeilles, qui construisent leurs alvéoles en respectant ce motif.</source>
+        <cible>On fixe une feuille de cire dans chaque cadre.</cible>
+    </paire>
+    <paire id = "58" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Ces modèles trop variés pour être listés peuvent néanmoins être regroupés dans plusieurs grandes familles.</source>
+        <cible>On a ensuite fait des biberons en étain et en fer blanc.</cible>
+    </paire>
+    <paire id = "59" vote = "5" moy = "4.9" scores = "5,4.5,5,5,5">
+        <source>Ces réactions peuvent aller d'un simple érythème cutané jusqu'à l'apparition de désordres circulatoires, état de choc, bronchospasme et arrêt respiratoire et/ou cardiaque.</source>
+        <cible>Ces réactions peuvent aller d'un simple érythème cutané jusqu'à l'apparition de désordres circulatoires, état de choc, bronchospasme (des bronches) et arrêt respiratoire et/ou cardiaque.</cible>
+    </paire>
+    <paire id = "60" vote = "4" moy = "4.4" scores = "5,4,4,4,5">
+        <source>Ces résultats vont à l'encontre d'une utilisation courante des lavements au cours du travail.</source>
+        <cible>Par conséquent, les preuves vont à l'encontre d'une utilisation courante des lavements au cours du travail.</cible>
+    </paire>
+    <paire id = "61" vote = "5" moy = "2.9" scores = "2,4.5,0,5,3">
+        <source>Cet article est la troisième mise à jour de la revue originale.</source>
+        <cible>Cette revue est la troisième mise à jour de l'article original.</cible>
+    </paire>
+    <paire id = "62" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Cet enlèvement a pour but de déclencher le mécanisme de survie de la colonie, c'est-à-dire le nourrissage des larves à la gelée royale ; les ouvrières l'effectuent spontanément quand elles remarquent l'absence de leur reine.</source>
+        <cible>Il est composé d'une reine, de plusieurs milliers d'ouvrières et d'un nombre de mâles appelés faux-bourdons, variable selon la saison.</cible>
+    </paire>
+    <paire id = "63" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Cette salle est composée d'un gradin amovible (de 314 places) et d'un balcon fixe (238 places).</source>
+        <cible>Il mesure en tout 5 hectares.</cible>
+    </paire>
+    <paire id = "64" vote = "1" moy = "1.3" scores = "1,2.5,0,1,2">
+        <source>Ceux-ci ont été longtemps désignés sous l'appellation de caraïbe.</source>
+        <cible>Ils ont ensuite été dominés par un autre peuple amérindien, les Caraïbes.</cible>
+    </paire>
+    <paire id = "65" vote = "0" moy = "0.8" scores = "0,4,0,0,0">
+        <source>Ceux-ci résistèrent héroïquement sous un feu d'enfer durant plus de dix jours.</source>
+        <cible>Dans des conditions difficiles, les Français ralentissent pendant seize jours la progression de l'Afrika Korps du général allemand Erwin Rommel.</cible>
+    </paire>
+    <paire id = "66" vote = "5" moy = "4.9" scores = "5,4.5,5,5,5">
+        <source>Chez les femmes en âge de procréer, la possibilité d'une grossesse doit être exclue avec certitude par les moyens appropriés, par exemple un test de grossesse, avant le début du traitement.</source>
+        <cible>Il convient donc, chez les femmes en âge d'avoir des enfants, d'écarter l'éventualité d'une grossesse en prenant des mesures appropriées, par exemple en pratiquant un test de grossesse, avant le début du traitement.</cible>
+    </paire>
+    <paire id = "67" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Comme toutes les équipes canadiennes, les Canadiens ont profité de la vigueur du dollar canadien, à parité avec le billet vert américain pendant toute la saison (2008/2009).</source>
+        <cible>Depuis plus de 100 ans les Canadiens de Montréal sont une des meilleures équipes dans LNH.</cible>
+    </paire>
+    <paire id = "68" vote = "1" moy = "1.4" scores = "3,1,2,1,0">
+        <source>Comparativement à un traitement d'une durée standard, les études portant sur le traitement de courte durée ont présenté des périodes plus courtes de fièvre (différence moyenne (DM) -0,30 jour, intervalle de confiance (IC) à 95 % -0,45 à -0,14) et de mal de gorge (dm -0,50 jour, ic à 95 % -0,78 à -0,22).</source>
+        <cible>Le traitement de courte durée a entraîné une meilleure observance mais davantage d'effets secondaires.</cible>
+    </paire>
+    <paire id = "69" vote = "5" moy = "4.6" scores = "5,4,5,4,5">
+        <source>Compte tenu des données disponibles, l'utilisation chez la femme enceinte ou qui allaite est possible ponctuellement.</source>
+        <cible>Ce médicament, dans les conditions normales d'utilisation, peut être utilisé ponctuellement pendant la grossesse et l'allaitement.</cible>
+    </paire>
+    <paire id = "70" vote = "4" moy = "4" scores = "5,2,4,5,4">
+        <source>Conserver les capsules dans leur flacon, soigneusement rebouché après chaque usage, à une température inférieure à 25°c, à l'abri de l'humidité et de la lumière.</source>
+        <cible>Conserver les capsules dans leur flacon, soigneusement rebouché après chaque usage, et à l'abri de la chaleur, de l'humidité et de la lumière vive.</cible>
+    </paire>
+    <paire id = "71" vote = "4" moy = "4.4" scores = "5,4,4,5,4">
+        <source>D'après les études incluses dans cette revue, il y a des preuves que la spironolactone est un traitement efficace pour diminuer le degré d'hirsutisme, mais pas de preuves quant à l'efficacité du traitement de l'acné vulgaire.</source>
+        <cible>D'après les études incluses dans cette revue, il y a des preuves que la spironolactone est un traitement efficace pour diminuer le degré d'hirsutisme, mais pas suffisamment de preuves pour ce qui est de la prise en charge de l'acné.</cible>
+    </paire>
+    <paire id = "72" vote = "2" moy = "1.1" scores = "2,1.5,0,2,0">
+        <source>D'autre part les dispositifs à micro-ondes ou les « stérilisateurs » du commerce ne leur permettent pas, au sens de la normalisation européenne (CEN) ou française (AFNOR), d'être qualifiés de procédés de stérilisation,</source>
+        <cible>La stérilisation comme les tétines de jeu (micro-ondes ou stérilisateurs) se fait encore, même si les médecins français rappellent qu'un lavage au lave-vaisselle ou à la main avec liquide vaisselle et eau chaude suffit largement.</cible>
+    </paire>
+    <paire id = "73" vote = "1" moy = "2.4" scores = "4,2,1,4,1">
+        <source>D'autre part les dispositifs à micro-ondes ou les « stérilisateurs » du commerce ne leur permettent pas, au sens de la normalisation européenne (CEN) ou française (AFNOR), d'être qualifiés de procédés de stérilisation.</source>
+        <cible>D'autant plus que les stérilisateurs ou les micro-ondes n'ont pas encore été reconnus comme des appareils de stérilisation.</cible>
+    </paire>
+    <paire id = "74" vote = "2" moy = "2.9" scores = "2,4.5,2,3,3">
+        <source>D'autres recherches sont nécessaires pour explorer en détails le rôle des antipuriques dans le traitement de la leucémie lymphoïde chronique à cellules B (LLC-B) et leur impact potentiel sur la survie.</source>
+        <cible>Des essais récents suggèrent une amélioration des taux de réponse pour les antipuriques comparativement aux schémas posologiques à base d'agents alkylants dans le traitement de la leucémie lymphoïde chronique à cellules B (LLC-B).</cible>
+    </paire>
+    <paire id = "75" vote = "4" moy = "3.8" scores = "3,4,4,4,4">
+        <source>D'une part, un lavage au lave-vaisselle ou à la main, au goupillon, dans de l'eau chaude additionnée de liquide vaisselle est suffisant.</source>
+        <cible>La stérilisation comme les tétines de jeu (micro-ondes ou stérilisateurs) se fait encore, même si les médecins français rappellent qu'un lavage au lave-vaisselle ou à la main avec liquide vaisselle et eau chaude suffit largement.</cible>
+    </paire>
+    <paire id = "76" vote = "2" moy = "1.9" scores = "3,1.5,2,2,1">
+        <source>D'une superficie de cinq hectares, il est décoré de nombreuses fleurs et possède un étang, où vivent des cygnes et des canards.</source>
+        <cible>Il mesure en tout 5 hectares.</cible>
+    </paire>
+    <paire id = "77" vote = "3" moy = "3.2" scores = "4,2,3,4,3">
+        <source>Dans l'essai de prévention des rechutes, les fumeurs qui avaient réussi à arrêter de fumer à l'aide de rimonabant 20 mg étaient 1 fois et demie plus susceptibles de demeurer abstinents sous traitement actif (5 mg ou 20 mg pendant 42 semaines) que sous placebo.</source>
+        <cible>Dans l'essai de prévention des rechutes, ceux qui avaient arrêté de fumer en utilisant le 20 mg étaient plus susceptibles de ne pas rechuter sous régime actif que sous placebo.</cible>
+    </paire>
+    <paire id = "78" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Dans l'Histoire, plusieurs tremblements de terre importants semblent avoir eu un épicentre dans le pas de Calais, entre la France et l'Angleterre.</source>
+        <cible>Boulogne-sur-Mer est une ville portuaire du nord de la France, dans le département du Pas-de-Calais, région Hauts-de-France.</cible>
+    </paire>
+    <paire id = "79" vote = "0" moy = "0.7" scores = "2,0.5,1,0,0">
+        <source>Dans le cas contraire, il enlève toute la hausse.</source>
+        <cible>En général, il ne prend que ceux des hausses, et n'enlève aucun de l'espace principal qu'on appelle corps de ruche.</cible>
+    </paire>
+    <paire id = "80" vote = "4" moy = "3.4" scores = "4,4,0,5,4">
+        <source>Dans les essais portant sur des lésions non viables, la récurrence des crises épileptiques était substantiellement inférieure sous albendazole, ce qui semble contre-intuitif.</source>
+        <cible>Ces preuves suggèrent que la récurrence des crises épileptiques était inférieure sous albendazole, ce qui contredit l'opinion de certains experts.</cible>
+    </paire>
+    <paire id = "81" vote = "5" moy = "4.9" scores = "5,4.5,5,5,5">
+        <source>Dans les lombalgies aiguës, la thérapie par des exercices est aussi efficace que l'absence de traitement et que d'autres traitements conservateurs.</source>
+        <cible>Pour les patients souffrant de lombalgies aiguës, la thérapie par des exercices est aussi efficace que l'absence de traitement et que d'autres traitements conservateurs.</cible>
+    </paire>
+    <paire id = "82" vote = "5" moy = "3.6" scores = "5,4,0,4,5">
+        <source>Dans tous les essais cliniques, les patients devaient prendre la capécitabine dans les 30 minutes suivant un repas.</source>
+        <cible>Vous devez prendre capecitabine EG dans les 30 minutes suivant la fin des repas.</cible>
+    </paire>
+    <paire id = "83" vote = "3" moy = "2.7" scores = "4,1.5,2,3,3">
+        <source>De 1967 à 1985, il est délégué général du laboratoire de biologie marine de cet Observatoire de la mer.</source>
+        <cible>Il fut délégué général du laboratoire de biologie marine.</cible>
+    </paire>
+    <paire id = "84" vote = "0" moy = "0.7" scores = "1,0.5,0,0,2">
+        <source>De même que les abeilles, certaines espèces de bourdons semblent aussi en forte voie de régression.</source>
+        <cible>Certains insecticides très puissants ne se contentent pas de supprimer les insectes qui menacent les plantations, mais tuent également tous les insectes du voisinage, même les plus utiles.</cible>
+    </paire>
+    <paire id = "85" vote = "5" moy = "4.8" scores = "5,4,5,5,5">
+        <source>De plus, des doses supérieures à celles recommandées peuvent avoir une influence sur la coagulation ainsi que sur le taux de protéines plasmatiques.</source>
+        <cible>De plus, des doses supérieures à celles recommandées peuvent avoir une influence sur la coagulation sanguine ainsi que sur le taux de protéines plasmatiques.</cible>
+    </paire>
+    <paire id = "86" vote = "5" moy = "4.8" scores = "5,4,5,5,5">
+        <source>De récentes études ont rapporté que les ultrasons fournissent une bonne précision diagnostique pour confirmer que le placement de la sonde est approprié.</source>
+        <cible>De récentes études suggèrent que les ultrasons permettent une bonne précision diagnostique pour confirmer que le placement de la sonde est approprié.</cible>
+    </paire>
+    <paire id = "87" vote = "2" moy = "1.9" scores = "3,1.5,2,2,1">
+        <source>Découvreur de la sclérose latérale amyotrophique (SLA), une maladie neurodégénérative à laquelle son nom a été donné dans la littérature médicale francophone, il est le fondateur avec Guillaume Duchenne de la neurologie moderne et l'un des grands promoteurs de la médecine clinique, une figure du positivisme.</source>
+        <cible>Il est le découvreur de la sclérose latérale amyotropique ou maladie de Charcot une maladie neurodégénérative.</cible>
+    </paire>
+    <paire id = "88" vote = "0" moy = "1.3" scores = "4,1.5,0,0,1">
+        <source>Depuis la guerre civile de 1996 au Congo, les bonobos sont, en outre, victimes de braconnage de la part des populations locales qui consomment leur viande.</source>
+        <cible>Il est menacé par le braconnage et la déforestation.</cible>
+    </paire>
+    <paire id = "89" vote = "2" moy = "3" scores = "5,2,3,2,3">
+        <source>Depuis sa création en 1909, les Canadiens de Montréal représentent une tradition de gagnants et une gloire qui dépassent largement les frontières du sport.</source>
+        <cible>Depuis plus de 100 ans les Canadiens de Montréal sont une des meilleures équipes dans LNH.</cible>
+    </paire>
+    <paire id = "90" vote = "4" moy = "3.8" scores = "4,4,3,4,4">
+        <source>Des antibiotiques administrés pendant une durée plus courte sont susceptibles d'avoir une efficacité comparable.</source>
+        <cible>Des antibiotiques plus récents, pris pendant une durée plus courte, sont susceptibles d'avoir un effet comparable à celui de la pénicilline prise pendant 10 jours.</cible>
+    </paire>
+    <paire id = "91" vote = "4" moy = "3.2" scores = "4,4,1,4,3">
+        <source>Des études à plus grande échelle sont nécessaires pour déterminer la possibilité d'événements indésirables lorsque les ultrasons sont utilisés pour confirmer le positionnement des sondes.</source>
+        <cible>Des études à plus grande échelle sont nécessaires pour déterminer si les ultrasons pourraient remplacer les rayons X pour confirmer la mise en place d'une sonde gastrique, et pour évaluer si les ultrasons pourraient permettre de réduire les complications graves, telles que la pneumonie résultant d'un tube mal placé.</cible>
+    </paire>
+    <paire id = "92" vote = "3" moy = "2.3" scores = "3,2.5,1,3,2">
+        <source>Des études de plus haute qualité ayant une plus grande puissance statistique et utilisant des mesures appropriées des critères de jugement sont nécessaires.</source>
+        <cible>Nous concluons qu'il est nécessaire de réaliser davantage d'essais cliniques pour étudier les avantages et les inconvénients des programmes éducatifs relatifs à la santé bucco-dentaire dans les établissements pour personnes âgées.</cible>
+    </paire>
+    <paire id = "93" vote = "4" moy = "3.8" scores = "5,4,3,4,3">
+        <source>Des médicaments cholinergiques ont été utilisés pour traiter la dyskinésie tardive.</source>
+        <cible>Les médicaments cholinergiques, tels que le déanol, la lécithine et le méclofénoxate, sont utilisés dans le traitement de la dyskinésie tardive.</cible>
+    </paire>
+    <paire id = "94" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Des preuves archéo-chimiques d'usage préhistorique de miel et d'utilisation de cire d'abeilles sauvages ont été récemment recherchés dans environ 6400 pots en argile trouvés au Proche-Orient, en Europe et en Afrique du Nord.</source>
+        <cible>Le travail de l'apiculteur consiste à fournir aux colonies d'abeilles un logement adapté (la ruche), dans lequel elles peuvent construire des rayons de cire ; et à récolter une partie du miel qu'elle produisent.</cible>
+    </paire>
+    <paire id = "95" vote = "5" moy = "4.8" scores = "5,4,5,5,5">
+        <source>Des réactions anaphylactoïdes sont connues avec les hydroxyéthylamidons en général.</source>
+        <cible>Des réactions anaphylactoïdes (allergiques) sont connues avec les hydroxyéthylamidons en général.</cible>
+    </paire>
+    <paire id = "96" vote = "4" moy = "4.4" scores = "5,4,4,5,4">
+        <source>Des services d'ARPD disposant de ressources adéquates et de la contribution d'une équipe multidisciplinaire coordonnée, fournis à un certain groupe de patients victimes d'AVC peuvent réduire la dépendance à long terme et l'admission dans des établissements de soins, en plus de réduire la durée de séjour à l'hôpital.</source>
+        <cible>Des services d'ARPD disposant de ressources adéquates et de la contribution d'une équipe multidisciplinaire coordonnée peuvent réduire l'invalidité et la durée du séjour à l'hôpital au moins pour un certain groupe de personnes victimes d'AVC.</cible>
+    </paire>
+    <paire id = "97" vote = "1" moy = "1.4" scores = "3,1,1,2,0">
+        <source>Douze essais portant sur 3285 femmes en bonne santé à faible risque de saignements excessifs subissant une césarienne élective (neuf essais, 2453 participants) ou accouchant de manière spontanée (trois essais, 832 participants) ont répondu aux critères d'inclusion et ont fourni des données pour l'analyse.</source>
+        <cible>Douze essais (3285 participants) ont été inclus dans la revue.</cible>
+    </paire>
+    <paire id = "98" vote = "3" moy = "3.2" scores = "3,2,3,4,4">
+        <source>Elle est la conséquence d'une expérience traumatisante vécue durant l'enfance.</source>
+        <cible>Sa cause est souvent due à un événement considéré comme traumatisant et qui engendre une phobie.</cible>
+    </paire>
+    <paire id = "99" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Elle était peut-être utilisée pour rendre les pots étanches, ou - ce qui est probablement le cas à Çayönü Tepesi, puisque les traces sont mélangées à de la graisse animale - pourrait être des résidus de nid d'abeilles entretenus pour produire du miel afin de sucrer les aliments.</source>
+        <cible>Lorsque les alvéoles sont pleines de miel, les abeilles les ont fermées par une petite couche de cire, une opercule.</cible>
+    </paire>
+    <paire id = "100" vote = "4" moy = "2.4" scores = "3,4,0,4,1">
+        <source>Elle fait partie de l'aire urbaine de Clermont-Ferrand.</source>
+        <cible>Cébazat est une ville de France, située dans le département du Puy-de-Dôme et la région Auvergne-Rhône-Alpes, et dans l'agglomération de Clermont-Ferrand.</cible>
+    </paire>
+    <paire id = "101" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Elles n'ont pu l'être qu'avec la mise au point de techniques de récolte.</source>
+        <cible>Le travail de l'apiculteur consiste à fournir aux colonies d'abeilles un logement adapté (la ruche), dans lequel elles peuvent construire des rayons de cire ; et à récolter une partie du miel qu'elle produisent.</cible>
+    </paire>
+    <paire id = "102" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Elles n'ont pu l'être qu'avec la mise au point de techniques de récolte.</source>
+        <cible>Mais étant piqué de temps en temps, son corps s'est en général accoutumé : une piqûre est alors toujours douloureuse, mais il n'enflera pas et la douleur pourra passer en quelques minutes.</cible>
+    </paire>
+    <paire id = "103" vote = "4" moy = "2" scores = "4,4,0,0,2">
+        <source>Elles sont limitées aux infections sévères, dues à des germes définis comme sensibles dans leurs manifestations.</source>
+        <cible>Ce médicament est indiqué dans le traitement curatif de certaines infections bactériennes sévères dues à des germes sensibles à cet antibiotique.</cible>
+    </paire>
+    <paire id = "104" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>En 1772, Jonas de Gélieu décrit la première ruche à hausse fonctionnelle dans sa Nouvelle méthode pour former les essaims artificiels.</source>
+        <cible>Les ruches modernes contiennent des cadres faits pour contenir chacun un rayon de cire, ce qui permet de les retirer facilement pour les observer, les échanger ou en extraire le miel.</cible>
+    </paire>
+    <paire id = "105" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>En 1772, Jonas de Gélieu décrit la première ruche à hausse fonctionnelle dans sa Nouvelle méthode pour former les essaims artificiels.</source>
+        <cible>Quant au mot ruche, il désigne soit seulement le logement des abeilles, soit ce logement et la colonie qui l'occupe.</cible>
+    </paire>
+    <paire id = "106" vote = "0" moy = "1.4" scores = "3,4,0,0,0">
+        <source>En 1999, les membres du Groupe Apache ont créé la fondation pour permettre de soutenir le serveur Apache.</source>
+        <cible>Elle a été créée en juin 1999 dans le Delaware aux États-Unis.</cible>
+    </paire>
+    <paire id = "107" vote = "4" moy = "4.4" scores = "5,4,4,4,5">
+        <source>En cas d'insuffisance hépatocellulaire grave, il peut être nécessaire de diminuer les doses d'Articaïne, en raison du métabolisme principalement hépatique des anesthésiques locaux à fonction amide.</source>
+        <cible>En cas d'insuffisance hépatique grave, il peut être nécessaire de diminuer les doses d'Articaïne, en raison du métabolisme principalement hépatique des anesthésiques locaux à fonction amide.</cible>
+    </paire>
+    <paire id = "108" vote = "5" moy = "4.9" scores = "5,4.5,5,5,5">
+        <source>En cas de traitement concomitant par un autre collyre, attendre 15 minutes entre chaque instillation.</source>
+        <cible>En cas de traitement concomitant par un autre collyre, attendez 15 minutes entre chaque instillation.</cible>
+    </paire>
+    <paire id = "109" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>En dehors de l'apiculture, on utilisait autrefois la cire d'abeilles pour fabriquer des chandelles ; cette utilisation est aujourd'hui marginale.</source>
+        <cible>Capturer des essaims sortis de ses ruches ou de colonies voisines pour les mettre dans une ruche vide.</cible>
+    </paire>
+    <paire id = "110" vote = "0" moy = "0.4" scores = "2,0,0,0,0">
+        <source>En dehors de l'apiculture, on utilisait autrefois la cire d'abeilles pour fabriquer des chandelles ; cette utilisation est aujourd'hui marginale.</source>
+        <cible>La cire utilisée pour cela a été récupérée dans des ruches, donc produite à l'origine par des abeilles.</cible>
+    </paire>
+    <paire id = "111" vote = "1" moy = "1.9" scores = "3,1.5,1,1,3">
+        <source>En effet, il faut laisser le couvain au chaud car il a besoin d'une température interne de 35°C pour bien se développer et des ouvertures intempestives par temps froid donnent des abeilles plus faibles.</source>
+        <cible>En climat froid, pour que les abeilles n'aient pas trop froid, il peut réduire l'ouverture de la ruche, isoler son toit ou même installer pour deux ou trois mois les ruches dans une cave spéciale dont la température est régulière et où il ne gèle pas.</cible>
+    </paire>
+    <paire id = "112" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>En Europe, l'exploitation intensive du miel date de la fin du XVIIIe siècle avec l'invention de la hausse qui permet de rendre la récolte de miel plus productive, et c'est à partir de ce moment que l'on peut commencer à parler d'élevage.</source>
+        <cible>Cela peut être son métier, une activité supplémentaire ou plutôt un loisir.</cible>
+    </paire>
+    <paire id = "113" vote = "3" moy = "3.8" scores = "5,4,3,3,4">
+        <source>En l'absence d'études de compatibilité, ce médicament ne doit pas être mélangé avec d'autres médicaments.</source>
+        <cible>En l'absence d'études de compatibilité, restorvol 6 % ne doit pas être mélangé avec d'autres produits médicamenteux.</cible>
+    </paire>
+    <paire id = "114" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>En l'absence de l'homme, une grande partie de la colonie quitte l'emplacement initial, par essaimage.</source>
+        <cible>Un temps orageux et des floraisons rares (en fin d'été et en cas de sécheresse par exemple) augmentent aussi leur agressivité.</cible>
+    </paire>
+    <paire id = "115" vote = "2" moy = "2.2" scores = "2,2,2,3,2">
+        <source>En outre, le bonobo est plus petit que son homologue le chimpanzé, d'où son nom de chimpanzé nain.</source>
+        <cible>Plus petit que son cousin, le chimpanzé, il s'en distingue notamment par ses lèvres roses.</cible>
+    </paire>
+    <paire id = "116" vote = "1" moy = "1.8" scores = "3,2,1,1,2">
+        <source>En passant de Georges Vézina, George Hainsworth, Bill Durnan, Jacques Plante, Ken Dryden à Patrick Roy les gardiens de but du Club de hockey Canadien ont marqué l'histoire de ce sport.</source>
+        <cible>Les plus connus sont Georges Vézina, Jacques Plantes, Maurice Richard, Henri Richard, Larry Robinson, Guy Lafleur, Bob Gainey, Ken Dryden, Guy Carbonneau, Patrick Roy, Saku Koivu, Chris Chelios, Chris Nilan, Alex Kovalev.</cible>
+    </paire>
+    <paire id = "117" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>En première instance, le comportement des abeilles va toujours dans le sens de la sauvegarde de la colonie.</source>
+        <cible>C'est une feuille de cire dite gauffrée, puisqu'elle a été moulée avec le même dessin que celui du fond des rayons que les abeilles construisent d'elles-mêmes.</cible>
+    </paire>
+    <paire id = "118" vote = "0" moy = "2.6" scores = "5,4,0,0,4">
+        <source>En raison des preuves insuffisantes, nous ne pouvons pas à l'heure actuelle tirer de conclusions définitives concernant les effets indésirables.</source>
+        <cible>En raison du nombre limité de preuves et de leur très faible qualité, nous n'avons pas pu déterminer avec confiance les effets du début plus tardif des cours.</cible>
+    </paire>
+    <paire id = "119" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>En ville, les abeilles se portent aussi bien qu'ailleurs, voire bien mieux parfois.</source>
+        <cible>Il veille également à la quantité de nourriture disponible à chaque ruche (quantité de miel dans les rayons), surtout l'hiver.</cible>
+    </paire>
+    <paire id = "120" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Enfin, avoir une ruche en ville permet de récolter une ou plusieurs fois par an le miel produit par les abeilles, mais cela rend également accessible les autres produits de la ruche, tous bénéfiques pour notre santé.</source>
+        <cible>Le travail de l'apiculteur consiste à fournir aux colonies d'abeilles un logement adapté (la ruche), dans lequel elles peuvent construire des rayons de cire ; et à récolter une partie du miel qu'elle produisent.</cible>
+    </paire>
+    <paire id = "121" vote = "1" moy = "1.8" scores = "4,1,1,1,2">
+        <source>Enfin, lorsque le traitement ayurvédique, dans ce cas un mélange complexe de nombreuses plantes, était comparé à la chlorpromazine chez les patients atteints de schizophrénie aiguë, il était équivalent (~10 % d'attrition, N = 36, RR de 0,67, IC entre 0,13 et 3,53), mais les données asymétriques semblent favoriser le groupe de la chlorpromazine.</source>
+        <cible>Lorsque ces deux plantes étaient comparées aux groupes recevant l'antipsychotique chlorpromazine, aucune différence n'était observée concernant l'acceptabilité du traitement, mais dans l'un des deux essais, une amélioration de l'état mental était rapportée chez les patients sous chlorpromazine.</cible>
+    </paire>
+    <paire id = "122" vote = "4" moy = "3.6" scores = "4,4,2,5,3">
+        <source>Évaluer l'effet de l'administration de TRH prénatale en plus des corticostéroïdes chez les femmes présentant un risque de naissance prématurée pour la prévention de la maladie respiratoire néonatale.</source>
+        <cible>Thyrolibérine associée à des corticostéroïdes pour les femmes présentant un risque de naissance prématurée afin de prévenir une maladie respiratoire néonatale.</cible>
+    </paire>
+    <paire id = "123" vote = "5" moy = "4.1" scores = "5,4.5,2,5,4">
+        <source>Évaluer l'effet de la dérivation habituelle versus sélective ou l'absence de dérivation pendant l'endartériectomie carotidienne et évaluer la meilleure méthode pour sélectionner les patients susceptibles de bénéficier de cette pratique.</source>
+        <cible>Nous avons voulu comparer l'effet de la dérivation habituelle versus sélective ou l'absence de dérivation pendant l'endartériectomie carotidienne et évaluer l'effet de différentes méthodes pour la sélection des patients pour la dérivation.</cible>
+    </paire>
+    <paire id = "124" vote = "5" moy = "3.8" scores = "5,3,2,4,5">
+        <source>Évaluer l'efficacité et l'innocuité de l'adjonction de corticostéroïdes dans la réduction de la mortalité et des séquelles neurologiques chez les nouveau-nés atteints de méningite bactérienne.</source>
+        <cible>Est-ce que l'utilisation de corticostéroïdes adjuvants chez les nouveau-nés atteints de méningite bactérienne réduit le risque de décès et la possibilité d'avoir des séquelles neurodéveloppementales.</cible>
+    </paire>
+    <paire id = "125" vote = "5" moy = "3" scores = "5,1,2,4,3">
+        <source>Évaluer l'efficacité et l'innocuité de la supplémentation en inositol de nouveau-nés prématurés avec ou sans syndrome de détresse respiratoire (SDR) pour la diminution du nombre de résultats néonataux indésirables.</source>
+        <cible>L'administration de l'inositol en supplément réduit-elle les résultats indésirables chez les prématurés avec ou sans syndrome de détresse respiratoire (SDR).</cible>
+    </paire>
+    <paire id = "126" vote = "0.5" moy = "1.9" scores = "3,0.5,0,2,4">
+        <source>Évaluer les effets de la vitamine k administrée aux femmes présentant un risque d'accouchement très prématuré imminent pour prévenir la HPV et les lésions neurologiques associées chez le nourrisson.</source>
+        <cible>La vitamine k administrée aux femmes avant un accouchement très prématuré ne diminue par le risque de saignement dans le cerveau et de lésion neurologique associée chez les grands prématurés.</cible>
+    </paire>
+    <paire id = "127" vote = "4" moy = "3.6" scores = "4,3,3,4,4">
+        <source>Eviter la prise de boissons alcoolisées et de médicaments contenant de l'alcool.</source>
+        <cible>La prise d'alcool est formellement déconseillée pendant la durée du traitement.</cible>
+    </paire>
+    <paire id = "128" vote = "1" moy = "1.5" scores = "3,0.5,1,2,1">
+        <source>Fondés en 1909, les Canadiens de Montréal sont la plus vieille équipe de hockey au monde toujours en activité, sans aucune interruption.</source>
+        <cible>Les Canadiens de Montréal sont une équipe de hockey sur glace de Montréal.</cible>
+    </paire>
+    <paire id = "129" vote = "5" moy = "5" scores = "5,5,5,5,5">
+        <source>Gustave Flaubert lui a également consacré un récit La Tentation de saint Antoine.</source>
+        <cible>Gustave Flaubert lui a également consacré un récit, La Tentation de saint Antoine.</cible>
+    </paire>
+    <paire id = "130" vote = "3" moy = "2.5" scores = "3,1.5,3,2,3">
+        <source>Il a une sœur, Irina Godounova (morte le 26 octobre 1603), épouse du tsar Fédor Ier et un frère cadet, Ivan Godounov (mort en 1610), époux d'Irène Romanov.</source>
+        <cible>Sa sœur, Irène Godounova, épouse en 1580 le prince Fédor (fils du tsar Ivan IV le Terrible), qui succède à son père en 1584.</cible>
+    </paire>
+    <paire id = "131" vote = "0" moy = "0.8" scores = "3,0,1,0,0">
+        <source>Il décide de renforcer sa retraite en partant vivre pendant 13 ans dans le désert (le chapitre V de la Vie d'Antoine mentionne qu'il va jusqu'à s'enfermer dans un des anciens tombeaux égyptiens de la montagne), fondant la communauté des Kellia (en) (vivant dans des huttes, des grottes ou de petits ermitages, il célèbre avec sa communauté le synaxe le samedi) avec son disciple Ammonas qui s'est précédemment installé à Nitrie.</source>
+        <cible>Né en Égypte, dans le Fayoum, ce fervent chrétien prend l'Évangile à la lettre et distribue tous ses biens aux pauvres, avant de partir dans le désert et vivre en ermite.</cible>
+    </paire>
+    <paire id = "132" vote = "3" moy = "1.7" scores = "3,1.5,0,3,1">
+        <source>Il épouse Maria Malyouta-Skouratov (1551-1605) qui lui donna deux enfants : Fédor II (1589-1605) et Xénia (morte en 1662 à Troïtsa).</source>
+        <cible>Boris Godounov est marié avec Marie Malyouta-Skouratov.</cible>
+    </paire>
+    <paire id = "133" vote = "0" moy = "0.6" scores = "2,0,0,1,0">
+        <source>Il épouse Maria Malyouta-Skouratov (1551-1605) qui lui donna deux enfants : Fédor II (1589-1605) et Xénia (morte en 1662 à Troïtsa).</source>
+        <cible>Leur fils Fédor II (1589-1605) devient tsar à la mort de son père, avant d'être assassiné peu de temps après ainsi que sa mère.</cible>
+    </paire>
+    <paire id = "134" vote = "2" moy = "2.8" scores = "3,4,2,3,2">
+        <source>Il est connu pour sa traversée en solitaire de l'océan Atlantique, d'une durée de 65 jours, à bord d'un canot pneumatique en 1952.</source>
+        <cible>En 1952, il monta à bord d'un canot pneumatique, L'Hérétique, pour effectuer des recherches sur les problèmes de survie en mer.</cible>
+    </paire>
+    <paire id = "135" vote = "2" moy = "1" scores = "0,2,0,1,2">
+        <source>Il est également député européen (liste Majorité de progrès pour l'Europe) de 1981 à 1994, année où il devient député européen honoraire.</source>
+        <cible>Alain Bombard, né le 27 octobre 1924 à Paris et mort le 19 juillet 2005 à Toulon, est un biologiste français, et aussi un homme politique.</cible>
+    </paire>
+    <paire id = "136" vote = "3" moy = "2.2" scores = "3,2,0,3,3">
+        <source>Il est persuadé que l'on peut survivre après un naufrage, avec un minimum de nourriture (en filtrant notamment le plancton, riche en vitamine C, pour combattre le scorbut) et surtout d'eau, qu'elle vienne de la pluie, des poissons (en les pressant) ou d'eau de mer.</source>
+        <cible>Pour prouver qu'on pouvait vivre sans eau ni nourriture, il traversa en solitaire l'Atlantique sans autres ressources que les poissons, le plancton, l'eau de pluie et de petites quantités d'eau de mer durant 65 jours.</cible>
+    </paire>
+    <paire id = "137" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Il est produit par les abeilles dans le but de constituer des réserves.</source>
+        <cible>Donner une nourriture d'appoint (en complément) aux abeilles l'hiver ou au début du printemps.</cible>
+    </paire>
+    <paire id = "138" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Il est produit par les abeilles dans le but de constituer des réserves.</source>
+        <cible>Lorsqu'on récolte le miel, que la ruche contient des réserves, et aussi une population nombreuse, elle est beaucoup plus agressive.</cible>
+    </paire>
+    <paire id = "139" vote = "0" moy = "0.4" scores = "1,0,0,0,1">
+        <source>Il est produit par les abeilles dans le but de constituer des réserves.</source>
+        <cible>Par exemple, si la ruche contient beaucoup de miel et en période de miellée, il ajoutera une hausse, c'est-à-dire un étage de cadre que les abeilles pourront remplir.</cible>
+    </paire>
+    <paire id = "140" vote = "2" moy = "2" scores = "3,4,0,1,2">
+        <source>Il est souvent provoqué par un traumatisme contondant.</source>
+        <cible>L'hématome aigu de l'oreille est une affection qui se caractérise par la formation d'une collection sanguine dans le pavillon (oreille externe), souvent à la suite d'un traumatisme contondant.</cible>
+    </paire>
+    <paire id = "141" vote = "4" moy = "3.7" scores = "5,4.5,1,4,4">
+        <source>Il existe certaines preuves de l'efficacité d'un programme d'exercices à activités progressives dans les lombalgies subaiguës en milieu professionnel, même si les preuves pour d'autres types de thérapie par des exercices menés chez d'autres populations sont contradictoires.</source>
+        <cible>Chez les adultes souffrant de lombalgies subaiguës, il existe certaines preuves qu'un programme d'activités progressives améliore les résultats quant à l'absentéisme, même si les preuves pour d'autres types d'exercices ne sont pas claires.</cible>
+    </paire>
+    <paire id = "142" vote = "4" moy = "3.8" scores = "4,4,3,4,4">
+        <source>Il existe de plus en plus de preuves indiquant que les hormones sexuelles stéroïdes ont un effet bénéfique sur un certain nombre de facteurs de risque des maladies artérielles périphériques.</source>
+        <cible>Les oestrogènes et la testostérone, des hormones sexuelles stéroïdes, affectent un certain nombre de ces facteurs de risque, en particulier le cholestérol et la coagulation, et peuvent être utiles dans les maladies vasculaires périphériques.</cible>
+    </paire>
+    <paire id = "143" vote = "0" moy = "0.4" scores = "1,0,0,0,1">
+        <source>Il existe des « variantes », droits (non pansus) ou en forme de poire, mais dans tous les cas seule la tétine se dévisse.</source>
+        <cible>Il faut d'abord dévisser la tétine et mettre de l'eau (chaude ou froide selon l'utilisation souhaitée) dedans.</cible>
+    </paire>
+    <paire id = "144" vote = "5" moy = "4.2" scores = "5,2,4,5,5">
+        <source>Il existe des preuves modérées suggérant que les écoles du dos, en milieu professionnel, réduisent la douleur et améliorent la fonction et la situation du retour au travail, à court et moyen terme, comparées aux exercices, manipulation, thérapie myofasciale ou conseils, placebo ou groupes témoins sur liste d'attente, chez les patients souffrant de lombalgie chronique et récurrente.</source>
+        <cible>Il existe des preuves modérées suggérant que les écoles du dos, en milieu professionnel, réduisent la douleur et améliorent la fonction et la situation du retour au travail, à court et à moyen termes, comparées aux exercices, manipulation, thérapie myofasciale ou conseils, placebo ou groupes témoins sur liste d'attente, chez les patients souffrant de lombalgies chroniques.</cible>
+    </paire>
+    <paire id = "145" vote = "4" moy = "3.2" scores = "4,2,2,4,4">
+        <source>Il existe des preuves modérées suggérant que les écoles du dos, en milieu professionnel, réduisent la douleur et améliorent la fonction et la situation du retour au travail, à court et moyen terme, comparées aux exercices, manipulation, thérapie myofasciale ou conseils, placebo ou groupes témoins sur liste d'attente, chez les patients souffrant de lombalgie chronique et récurrente.</source>
+        <cible>Il existe des preuves modérées suggérant que les écoles du dos sont plus efficaces pour la douleur et la fonction que d'autres traitements conservateurs si les patients atteints de la lombalgie chronique sont issues de la population générale, les soins primaires ou secondaires.</cible>
+    </paire>
+    <paire id = "146" vote = "5" moy = "5" scores = "5,5,5,5,5">
+        <source>Il n'a pas été établi si l'amlodipine est excrétée dans le lait maternel.</source>
+        <cible>Il n'a pas été établi si l'amlodipine est excrété dans le lait maternel.</cible>
+    </paire>
+    <paire id = "147" vote = "3" moy = "2.8" scores = "4,4,0,3,3">
+        <source>Il n'a pas été possible de déterminer si le traitement médicamenteux est plus efficace que le traitement orthophonique.</source>
+        <cible>Il n'a pas été possible de conclure que le piracétam est plus efficace que le traitement orthophonique pour traiter l'aphasie après un AVC.</cible>
+    </paire>
+    <paire id = "148" vote = "5" moy = "4.7" scores = "5,4.5,4,5,5">
+        <source>Il n'existe pas de preuves solides issues d'essais randomisés en faveur de l'accouchement planifié à l'hôpital ou de l'accouchement planifié à domicile pour les femmes enceintes à faible risque.</source>
+        <cible>Il n'existe cependant pas de preuves solides issues d'essais randomisés en faveur de l'accouchement planifié à l'hôpital ou de l'accouchement planifié à domicile pour les femmes enceintes à faible risque.</cible>
+    </paire>
+    <paire id = "149" vote = "4" moy = "3.7" scores = "4,4.5,1,4,5">
+        <source>Il n'existe pas suffisamment de données pour évaluer le recours à une politique d'alitement à l'hôpital pour les femmes avec une suspicion de retard de croissance in-utero.</source>
+        <cible>Il n'existe pas assez de données permettant de démontrer si l'alitement à l'hôpital pour les femmes enceintes a un effet bénéfique sur la croissance du foetus.</cible>
+    </paire>
+    <paire id = "150" vote = "5" moy = "5" scores = "5,5,5,5,5">
+        <source>Il n'existe pas suffisamment de preuves pour recommander l'utilisation de l'héparine, de l'héparine de bas poids moléculaire, du défibrotide, de la glutamine, du PFC, de l'antithrombine III ou de la prostaglandine E1.</source>
+        <cible>Il n'existe pas suffisamment de preuves pour recommander l'utilisation de l'héparine, de l'HBPM, du défibrotide, de la glutamine, du PFC, de l'antithrombine III ou de la PGE1.</cible>
+    </paire>
+    <paire id = "151" vote = "4" moy = "3.6" scores = "3,4,3,4,4">
+        <source>Il ne doit pas être faussement interprété comme la mise en évidence d'un trouble pancréatique.</source>
+        <cible>Il ne doit pas être faussement interprété comme la mise en évidence d'un trouble pancréatique celui-ci sera plus spécifiquement diagnostiqué par un dosage de la lipasémie.</cible>
+    </paire>
+    <paire id = "152" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Il peut entraîner l'arrachement des caténaires et la destruction du pantographe.</source>
+        <cible>La transmission du courant électrique entre la machine et la caténaire se fait par l'intermédiaire d'un pantographe (bras articulé situé sur la motrice du train).</cible>
+    </paire>
+    <paire id = "153" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Il s'agit d'enlever la reine pour inciter les ouvrières à en produire de nouvelles, et de récolter la gelée royale que les ouvrières donneront aux larves dans ce but.</source>
+        <cible>Une grande part d'entre eux vendent leurs produits sur les marchés, et proposent d'autres produits que le miel : du pollen, de la cire, de la propolis ou même de la gelée royale.</cible>
+    </paire>
+    <paire id = "154" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Il s'agit du plus ancien témoignage graphique d'abeilles domestiquées et élevées.</source>
+        <cible>Dans ce cas, un apiculteur devra abandonner son activité, à moins de suivre un traitement médical spécial de désensibilisation.</cible>
+    </paire>
+    <paire id = "155" vote = "0" moy = "0.3" scores = "1,0.5,0,0,0">
+        <source>Il se distingue notamment du Chimpanzé commun par une face foncée plutôt que claire et ses poils sont généralement plus longs que chez ce dernier.</source>
+        <cible>Plus petit que son cousin, le chimpanzé, il s'en distingue notamment par ses lèvres roses.</cible>
+    </paire>
+    <paire id = "156" vote = "0" moy = "0.5" scores = "1,0.5,0,1,0">
+        <source>Il se lance par la suite en politique.</source>
+        <cible>Alain Bombard, né le 27 octobre 1924 à Paris et mort le 19 juillet 2005 à Toulon, est un biologiste français, et aussi un homme politique.</cible>
+    </paire>
+    <paire id = "157" vote = "0" moy = "1" scores = "2,0,0,0,3">
+        <source>Il se présente aujourd'hui sous la forme d'un flacon gradué (en verre ou en polycarbonate) de contenance réduite muni d'une tétine (en caoutchouc ou en silicone).</source>
+        <cible>La tétine est généralement percée d'un petit trou qui fait que, lorsque le bébé tète, la tétine envoie par petites quantités et régulièrement le contenu du biberon.</cible>
+    </paire>
+    <paire id = "158" vote = "1" moy = "2.6" scores = "4,1,1,4,3">
+        <source>Il semble aujourd'hui acquis que les biberons antiques (récipients en verre ou en terre cuite présents dans bien des musées et quelques collections) n'en sont pas mais seraient plutôt des « tire-lait ».</source>
+        <cible>Au départ, et jusqu'aux XVIe et XVIIe siècles, le biberon est juste un outil pour dégorger le sein trop rempli de lait.</cible>
+    </paire>
+    <paire id = "159" vote = "0" moy = "1.2" scores = "2,0,0,1,3">
+        <source>Jadis, des locomotives à moteur alternatif avaient été équipées de 3 pantographes à captage vertical.</source>
+        <cible>La transmission du courant électrique entre la machine et la caténaire se fait par l'intermédiaire d'un pantographe (bras articulé situé sur la motrice du train).</cible>
+    </paire>
+    <paire id = "160" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>L'abeille carnolienne, Apis mellifera carnica (Pollmann, 1879), est originaire de Slovénie et d'Autriche.</source>
+        <cible>Certains pensent que les abeilles connaissent leur apiculteur et ne le piquent pas.</cible>
+    </paire>
+    <paire id = "161" vote = "3" moy = "2.5" scores = "3,1.5,1,4,3">
+        <source>L'acide tranexamique (ATX), un agent antifibrinolytique couramment utilisé pour prévenir et traiter les hémorragies, mérite d'être évalué pour déterminer s'il remplit ces critères.</source>
+        <cible>L'acide tranexamique (ATX) est utilisé pour réduire les pertes de sang au cours des opérations chirurgicales ainsi qu'en cas d'affections associées à des saignements.</cible>
+    </paire>
+    <paire id = "162" vote = "5" moy = "5" scores = "5,5,5,5,5">
+        <source>L'administration simultanée de cet anesthésique avec certains médicaments nécessite une surveillance rigoureuse de l'état clinique et biologique du patient.</source>
+        <cible>L'administration simultanée de cet anesthésique avec certains médicaments nécessite une surveillance rigoureuse de l'état clinique et biologique du patient.</cible>
+    </paire>
+    <paire id = "163" vote = "1" moy = "1" scores = "2,0,1,1,1">
+        <source>L'afflux de nombreux disciples troublant son isolement, il part en 285 vivre en ermite à Pispir, en plein désert, dans un fortin romain abandonné sur la route de la mer Rouge, imitant les nombreux anachorètes qui vivaient dans la pauvreté et la chasteté aux alentours des bourgs.</source>
+        <cible>Né en Égypte, dans le Fayoum, ce fervent chrétien prend l'Évangile à la lettre et distribue tous ses biens aux pauvres, avant de partir dans le désert et vivre en ermite.</cible>
+    </paire>
+    <paire id = "164" vote = "1" moy = "2.6" scores = "3,1,1,4,4">
+        <source>L'Apache Software Foundation (fondation Apache) est une organisation à but non lucratif qui développe des logiciels open source sous la licence Apache, dont le renommé serveur web Apache HTTP Server.</source>
+        <cible>L'Apache Software Foundation est une organisation qui développe des logiciels libres.</cible>
+    </paire>
+    <paire id = "165" vote = "3" moy = "2.6" scores = "3,1,2,4,3">
+        <source>L'apiculteur doit procurer au rucher un abri, des soins, et veiller sur son environnement.</source>
+        <cible>Le travail de l'apiculteur consiste à fournir aux colonies d'abeilles un logement adapté (la ruche), dans lequel elles peuvent construire des rayons de cire ; et à récolter une partie du miel qu'elle produisent.</cible>
+    </paire>
+    <paire id = "166" vote = "4" moy = "3.2" scores = "4,1,3,4,4">
+        <source>L'apiculture est une branche de l'agriculture qui consiste en l'élevage d'abeilles à miel pour exploiter les produits de la ruche, principalement du miel.</source>
+        <cible>L'apiculture est une activité qui consiste à élever des abeilles à miel.</cible>
+    </paire>
+    <paire id = "167" vote = "2" moy = "1.7" scores = "3,0.5,2,1,2">
+        <source>L'apiculture est une branche de l'agriculture qui consiste en l'élevage d'abeilles à miel pour exploiter les produits de la ruche, principalement du miel.</source>
+        <cible>Le travail de l'apiculteur consiste à fournir aux colonies d'abeilles un logement adapté (la ruche), dans lequel elles peuvent construire des rayons de cire ; et à récolter une partie du miel qu'elle produisent.</cible>
+    </paire>
+    <paire id = "168" vote = "4" moy = "2.7" scores = "4,0.5,2,3,4">
+        <source>L'apiculture pastorale est une apiculture qui consiste à déplacer les ruches de site en site, au gré des saisons et des floraisons.</source>
+        <cible>Déplacer les ruches de plusieurs kilomètres pour permettre aux abeilles de profiter d'une floraison importante qui n'existe pas à proximité de leur premier emplacement : c'est la transhumance.</cible>
+    </paire>
+    <paire id = "169" vote = "2" moy = "2.3" scores = "3,0.5,2,2,4">
+        <source>L'art gothique ou art français (en latin francigenum opus) est une période artistique s'étendant sur environ quatre cents ans, qui s'est développée à partir de la seconde partie du Moyen Âge en France puis en Europe occidentale.</source>
+        <cible>L'Art gothique est l'art apparu en Europe au XIIéme siècle.</cible>
+    </paire>
+    <paire id = "170" vote = "5" moy = "4.7" scores = "5,4.5,4,5,5">
+        <source>L'attention des sportifs sera attirée sur le fait que ce médicament contient un principe actif pouvant induire une réaction positive des tests pratiqués lors des contrôles anti-dopage.</source>
+        <cible>L'attention des sportifs doit être attirée sur le fait que ce médicament peut induire une réaction positive de certains tests pratiqués lors des contrôles anti-dopage.</cible>
+    </paire>
+    <paire id = "171" vote = "5" moy = "4.7" scores = "5,4.5,4,5,5">
+        <source>L'autre essai, ayant comparé la mobilisation immédiate avec le plâtre court du bras et le plâtre long du bras pour des fractures peu déplacées, n'a trouvé aucune différence significative dans les résultats entre ces trois interventions.</source>
+        <cible>Le troisième essai, qui a comparé la mobilisation immédiate avec le plâtre court du bras et le plâtre long du bras pour des fractures peu déplacées, n'a trouvé aucune différence nette dans les résultats entre ces trois interventions.</cible>
+    </paire>
+    <paire id = "172" vote = "1" moy = "1.5" scores = "3,0.5,1,1,2">
+        <source>L'avènement de l'apiculture moderne se fait par l'invention du cadre mobile, mis au point en 1844, par le Dr Charles Paix Debeauvoys (1797-1863).</source>
+        <cible>Les ruches modernes contiennent des cadres faits pour contenir chacun un rayon de cire, ce qui permet de les retirer facilement pour les observer, les échanger ou en extraire le miel.</cible>
+    </paire>
+    <paire id = "173" vote = "3" moy = "3.2" scores = "3,2,3,5,3">
+        <source>L'effet de l'ATX sur les pertes de sang supérieures à 500 ml ou 400 ml était plus prononcé dans le groupe des femmes ayant réalisé un accouchement par voie basse que chez les femmes ayant subi une césarienne.</source>
+        <cible>L'ATX a réduit les pertes de sang supérieures à 400 ml ou 500 ml, et cet effet était plus marqué lors des accouchements par voie basse.</cible>
+    </paire>
+    <paire id = "174" vote = "0" moy = "0.3" scores = "1,0.5,0,0,0">
+        <source>L'électricité géothermique est considérée comme durable parce que l'extraction de chaleur est faible comparée à l'enthalpie de la planète.</source>
+        <cible>Une centrale géothermique produit de l'électricité grâce à la chaleur de la Terre (énergie géothermique), chaleur transformant l'eau des nappes souterraines en vapeur et faisant tourner une turbine et un alternateur.</cible>
+    </paire>
+    <paire id = "175" vote = "2" moy = "2.2" scores = "2,4,2,3,0">
+        <source>L'enfumage est une technique utilisée pour calmer les abeilles lorsqu'on ouvre la ruche.</source>
+        <cible>De plus, la fumée masque les phéromones qui incitent les abeilles à piquer.</cible>
+    </paire>
+    <paire id = "176" vote = "0" moy = "0.5" scores = "1,0.5,0,1,0">
+        <source>L'enfumage est une technique utilisée pour calmer les abeilles lorsqu'on ouvre la ruche.</source>
+        <cible>Sans cette précaution lorsqu'on ouvre une ruche, l'excitation d'une colonie peut monter, et la rendre très dangereuse, étant donné le nombre des abeilles.</cible>
+    </paire>
+    <paire id = "177" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>L'équipe est membre de la Division Atlantique de l'Association de l'Est dans la Ligue nationale de hockey.</source>
+        <cible>En 1915-16, les Canadiens de Montréal ont gagné leur première coupe Stanley.</cible>
+    </paire>
+    <paire id = "178" vote = "3" moy = "1.8" scores = "3,0,0,3,3">
+        <source>L'espèce est aujourd'hui menacée de disparition à brève échéance à cause de la dégradation de son habitat naturel (déforestation).</source>
+        <cible>Il est menacé par le braconnage et la déforestation.</cible>
+    </paire>
+    <paire id = "179" vote = "0" moy = "1" scores = "0,2,0,0,3">
+        <source>L'espèce est aujourd'hui menacée de disparition à brève échéance à cause de la dégradation de son habitat naturel (déforestation).</source>
+        <cible>Il ne reste plus que 10 000 et 20 000 bonobos.</cible>
+    </paire>
+    <paire id = "180" vote = "0" moy = "0.2" scores = "0,1,0,0,0">
+        <source>L'espèce est aujourd'hui menacée de disparition à brève échéance à cause de la dégradation de son habitat naturel (déforestation).</source>
+        <cible>Le bonobo mange : des graines, des plantes, des fruits, des petits insectes, des jeunes pousses.</cible>
+    </paire>
+    <paire id = "181" vote = "1" moy = "1.3" scores = "1,0.5,0,1,4">
+        <source>L'espèce est aujourd'hui menacée de disparition à brève échéance à cause de la dégradation de son habitat naturel (déforestation).</source>
+        <cible>Si cela persiste, le bonobo aura complètement disparu d'ici 50 à 70 ans.</cible>
+    </paire>
+    <paire id = "182" vote = "4" moy = "3" scores = "4,2,0,4,5">
+        <source>L'espèce est en danger de disparition, le déclin des populations étant principalement dû à la déforestation et au braconnage pour sa chair.</source>
+        <cible>Il est menacé par le braconnage et la déforestation.</cible>
+    </paire>
+    <paire id = "183" vote = "0" moy = "0.4" scores = "1,0,0,0,1">
+        <source>L'essaimage permet de multiplier le nombre des colonies.</source>
+        <cible>Diviser une ruche pour en produire une ou plusieurs nouvelles sans attendre un essaimage.</cible>
+    </paire>
+    <paire id = "184" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>L'essor des monocultures convient bien à ce genre de technique, puisque la floraison des arbres fruitiers n'est pas simultanée.</source>
+        <cible>Déplacer les ruches leur permet de profiter de plusieurs miellées importantes, et ainsi d'augmenter beaucoup leur production de miel.</cible>
+    </paire>
+    <paire id = "185" vote = "1" moy = "0.5" scores = "1,0.5,0,1,0">
+        <source>L'extraction peut se faire par écoulement, les cadres couchés et le miel s'écoulant naturellement (une face après l'autre).</source>
+        <cible>Un couteau permet de les enlever puis on fait sortir le miel grâce à un extracteur, c'est-à-dire une sorte de centrifugeuse.</cible>
+    </paire>
+    <paire id = "186" vote = "4" moy = "3.6" scores = "4,3,3,4,4">
+        <source>L'hématome aigu du pavillon est une affection qui se caractérise par la formation d'une collection sanguine sous le périchondre du pavillon.</source>
+        <cible>L'hématome aigu de l'oreille est une affection qui se caractérise par la formation d'une collection sanguine dans le pavillon (oreille externe), souvent à la suite d'un traumatisme contondant.</cible>
+    </paire>
+    <paire id = "187" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>L'homogénéisation des populations d'abeilles par l'utilisation de quelques lignées pures a des conséquences à long terme sur leur consanguinité, qui est très néfaste chez les abeilles.</source>
+        <cible>nettoyer les ruches, les changer, les repeindre, remplacer des cadres de vieille cire par des neufs</cible>
+    </paire>
+    <paire id = "188" vote = "3" moy = "2.8" scores = "3,4,0,4,3">
+        <source>L'hypersalivation due à la clozapine a été examinée dans une autre revue Cochrane.</source>
+        <cible>La revue a exclu la clozapine, un antipsychotique, car son rôle dans l'apparition d'hypersalivation a fait l'objet d'une autre revue Cochrane.</cible>
+    </paire>
+    <paire id = "189" vote = "3" moy = "2.6" scores = "3,2,2,3,3">
+        <source>L'objectif de cette revue est d'évaluer les preuves en faveur du moment optimal pour démarrer un TAR chez les personnes atteintes d'une infection par le VIH, qui présentent également une infection par cryptococcus des membranes recouvrant leur cerveau et moelle épinière (méningite).</source>
+        <cible>Le but de cette revue systématique était de résumer les preuves en faveur du moment optimal du démarrage du TAR chez les patients atteints de méningite cryptococcique pour une utilisation en pratique clinique et l'émission de recommandations.</cible>
+    </paire>
+    <paire id = "190" vote = "4" moy = "1.9" scores = "4,0.5,0,1,4">
+        <source>L'objectif de cette revue était d'évaluer les effets de l'alitement à l'hôpital pour les femmes avec une suspicion de retard de croissance in-utero.</source>
+        <cible>Il n'existe pas assez de données permettant de démontrer si l'alitement à l'hôpital pour les femmes enceintes a un effet bénéfique sur la croissance du foetus.</cible>
+    </paire>
+    <paire id = "191" vote = "4" moy = "3.8" scores = "4,4,3,3,5">
+        <source>L'objectif de cette revue était d'évaluer les effets de la supplémentation en vitamines antioxydantes et en minéraux sur la progression de la DMLA chez les personnes qui en sont atteintes.</source>
+        <cible>L'objectif de cette revue Cochrane était de déterminer si la prise de suppléments de vitamines antioxydantes et de minéraux pouvait ralentir la progression de la DMLA et prévenir la perte de la vue.</cible>
+    </paire>
+    <paire id = "192" vote = "5" moy = "5" scores = "5,5,5,5,5">
+        <source>L'utilisation systématique à titre préventif des amidons n'est pas recommandée en cours de grossesse, mais ils peuvent être prescrits si besoin, à titre curatif, quel que soit le terme de la grossesse.</source>
+        <cible>L'utilisation systématique à titre préventif des amidons n'est pas recommandée en cours de grossesse mais ils peuvent être prescrits quel que soir le terme de la grossesse si besoin à titre curatif.</cible>
+    </paire>
+    <paire id = "193" vote = "1" moy = "1.5" scores = "2,1.5,1,1,2">
+        <source>La Bécasse de mer (Macroramphosus scolopax) est une espèce de poisson aussi appelé Trompette.</source>
+        <cible>Il tient son nom de la bécasse, en raison de son museau très allongé, qui évoque le bec de l'oiseau.</cible>
+    </paire>
+    <paire id = "194" vote = "4" moy = "3.2" scores = "4,2,3,3,4">
+        <source>La chimiothérapie, en plus de la radiothérapie et de la chirurgie, est associée à une amélioration de la survie globale chez les patients atteints d'un cancer de la cavité orale ou oropharyngé.</source>
+        <cible>Un traitement par chimiothérapie (médicaments qui tuent les cellules cancéreuses), en plus d'une radiothérapie (et d'une intervention chirurgicale chaque fois que cela est possible), prolonge la survie.</cible>
+    </paire>
+    <paire id = "195" vote = "4" moy = "3" scores = "3,4,1,4,3">
+        <source>La chirurgie dans les cas de cancers oraux peut entraîner une défiguration.</source>
+        <cible>Ces deux traitements peuvent être associés à une défiguration et une diminution de la capacité à manger, boire et parler.</cible>
+    </paire>
+    <paire id = "196" vote = "0" moy = "0.4" scores = "1,0,0,0,1">
+        <source>La cire est principalement utilisée pour la fabrication des rayons, dans lesquels la reine produit son couvain, et où les ouvrières stockent leurs matières premières (pollen, propolis...) et le miel.</source>
+        <cible>Cette feuille de cire est en général soudée à un fil de fer fin, qui le cadre plus solide pour les manipulations et l'extraction.</cible>
+    </paire>
+    <paire id = "197" vote = "0" moy = "0.8" scores = "2,0,0,1,1">
+        <source>La cire est principalement utilisée pour la fabrication des rayons, dans lesquels la reine produit son couvain, et où les ouvrières stockent leurs matières premières (pollen, propolis...) et le miel.</source>
+        <cible>La cire utilisée pour cela a été récupérée dans des ruches, donc produite à l'origine par des abeilles.</cible>
+    </paire>
+    <paire id = "198" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>La cire est principalement utilisée pour la fabrication des rayons, dans lesquels la reine produit son couvain, et où les ouvrières stockent leurs matières premières (pollen, propolis...) et le miel.</source>
+        <cible>On fixe une feuille de cire dans chaque cadre.</cible>
+    </paire>
+    <paire id = "199" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>La cire peut également être consommée, en général lors de la consommation du miel ou des larves.</source>
+        <cible>Lorsque les alvéoles sont pleines de miel, les abeilles les ont fermées par une petite couche de cire, une opercule.</cible>
+    </paire>
+    <paire id = "200" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>La cire se manifeste sous la forme de petites écailles blanches transparentes.</source>
+        <cible>La cire utilisée pour cela a été récupérée dans des ruches, donc produite à l'origine par des abeilles.</cible>
+    </paire>
+    <paire id = "201" vote = "0" moy = "0.4" scores = "1,0,0,0,1">
+        <source>La cire se manifeste sous la forme de petites écailles blanches transparentes.</source>
+        <cible>Lorsque les alvéoles sont pleines de miel, les abeilles les ont fermées par une petite couche de cire, une opercule.</cible>
+    </paire>
+    <paire id = "202" vote = "0" moy = "0.6" scores = "2,0,0,0,1">
+        <source>La commune bénéficie d'une bonne accessibilité routière avec la route départementale 2009 (ancienne route nationale 9) qui possède le statut de voie express entre Riom au nord et Clermont-Ferrand au sud.</source>
+        <cible>Cébazat est desservi par le réseau de transports en commun  T2c  (Transports en commun clermontois), bus 21 et 24, reliant Cébazat à Aubière et Clermont-Nord.</cible>
+    </paire>
+    <paire id = "203" vote = "3" moy = "1.9" scores = "3,1.5,0,3,2">
+        <source>La commune fait partie de l'arrondissement de Cambrai du département du Nord, en région Hauts-de-France.</source>
+        <cible>Caudry est une commune française peuplée d'environ 14 000 habitants, située dans le sud du département du Nord et de la région Hauts-de-France.</cible>
+    </paire>
+    <paire id = "204" vote = "3" moy = "1.7" scores = "3,1.5,0,3,1">
+        <source>La commune, en association avec l'Ophis Puy-de-Dôme, aménage un écoquartier : la ZAC des Trois Fées, s'étendant sur 31 hectares.</source>
+        <cible>En 2015, un éco-quartier  Les 3 fées  a débuté sa construction.</cible>
+    </paire>
+    <paire id = "205" vote = "1" moy = "1.1" scores = "3,0.5,0,1,1">
+        <source>La condamnation des anciens systèmes et la stérilisation poussent les fabricants à faire évoluer leurs modèles vers une forme plus moderne qui va mener au développement de ce qui reste encore dissocié du biberon : le stérilisateur.</source>
+        <cible>Heureusement pour la réputation du biberon, la stérilisation du lait, et les biberons stérilisables, sont inventés par l'allemand Franz von Soxhlet, à la fin du XIXe siècle.</cible>
+    </paire>
+    <paire id = "206" vote = "4" moy = "3.5" scores = "4,1.5,3,4,5">
+        <source>La conduite du traitement impose la surveillance régulière (hebdomadaire au début) de la calcémie et la phosphorémie afin de contrôler le produit phosphocalcique.</source>
+        <cible>La conduite du traitement impose la surveillance régulière hebdomadaire de la calcémie et de la phosphorémie.</cible>
+    </paire>
+    <paire id = "207" vote = "5" moy = "4.6" scores = "5,4,4,5,5">
+        <source>La décision des médecins de recourir à des doses intramusculaires répétées de vitamine A pour prévenir la maladie pulmonaire chronique peut dépendre de l'incidence locale de ce résultat et de la valeur attachée à une réduction modeste dans le résultat mise en balance avec le manque d'autres bénéfices avérés et l'acceptabilité du traitement.</source>
+        <cible>Le choix de cliniciens de recourir à des doses intramusculaires répétées de vitamine A pour prévenir la maladie pulmonaire chronique peut dépendre de l'incidence locale de ce résultat et de la valeur attachée à une réduction modeste dans le résultat mise en balance avec le manque d'autres bénéfices avérés et l'acceptabilité du traitement.</cible>
+    </paire>
+    <paire id = "208" vote = "1" moy = "0.5" scores = "1,0.5,0,0,1">
+        <source>La domestication des abeilles et la conception de ruches modernes permet aujourd'hui de récolter du miel sans porter atteinte à la colonie, si ce n'est en la dérangeant.</source>
+        <cible>Lorsqu'on récolte le miel, que la ruche contient des réserves, et aussi une population nombreuse, elle est beaucoup plus agressive.</cible>
+    </paire>
+    <paire id = "209" vote = "0" moy = "0.5" scores = "2,0.5,0,0,0">
+        <source>La domestication des abeilles et la conception de ruches modernes permet aujourd'hui de récolter du miel sans porter atteinte à la colonie, si ce n'est en la dérangeant.</source>
+        <cible>Sans cette précaution lorsqu'on ouvre une ruche, l'excitation d'une colonie peut monter, et la rendre très dangereuse, étant donné le nombre des abeilles.</cible>
+    </paire>
+    <paire id = "210" vote = "5" moy = "4.8" scores = "5,5,4,5,5">
+        <source>La dose journalière maximale est de 30ml par kilogramme de poids corporel (équivalent à 1,8 g d'hydroxyéthylamidon par kilogramme de poids corporel).</source>
+        <cible>La dose journalière maximale est de 30ml (équivalent à 1,8 g d'hydroxyéthylamidon) par kilogramme de poids corporel.</cible>
+    </paire>
+    <paire id = "211" vote = "5" moy = "4.5" scores = "5,4.5,4,5,4">
+        <source>La durée du traitement ne dépassera pas 8 à 10 jours sans avis médical.</source>
+        <cible>Ne pas dépasser 8 à 10 jours de traitement sans avis médical.</cible>
+    </paire>
+    <paire id = "212" vote = "2" moy = "1.3" scores = "2,0.5,2,0,2">
+        <source>La durée standard de traitement chez les enfants atteints de pharyngite aiguë à streptocoque bêta-hémolytique du groupe A (GABHS) par la pénicilline orale est de 10 jours.</source>
+        <cible>Des antibiotiques plus récents, pris pendant une durée plus courte, sont susceptibles d'avoir un effet comparable à celui de la pénicilline prise pendant 10 jours.</cible>
+    </paire>
+    <paire id = "213" vote = "0" moy = "1" scores = "2,0,0,3,0">
+        <source>La femelle mesure 1,11 m pour un poids allant de 27 à 38 kg (33,2 kg en moyenne).</source>
+        <cible>La femelle pèse 30 kg et le mâle 45 kg.</cible>
+    </paire>
+    <paire id = "214" vote = "0" moy = "0.4" scores = "2,0,0,0,0">
+        <source>La forme extrêmement sophistiquée des cellules et des rayons leur permet de contenir dix à douze kilogrammes de miel pour un kilogramme de cire.</source>
+        <cible>Les ruches modernes contiennent des cadres faits pour contenir chacun un rayon de cire, ce qui permet de les retirer facilement pour les observer, les échanger ou en extraire le miel.</cible>
+    </paire>
+    <paire id = "215" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>La forte sélection sur des critères de rendement a permis d'augmenter fortement la production par ruche mais s'est traduite par une forte perte de rusticité des colonies.</source>
+        <cible>En effet, une miellée, c'est-à-dire une floraison qui peut permettre aux abeilles de produire du miel, dure de deux semaines à un mois environ.</cible>
+    </paire>
+    <paire id = "216" vote = "0" moy = "1.3" scores = "2,1.5,0,0,3">
+        <source>La fumée a pour effet de masquer les phéromones émises par les ouvrières donc de calmer la colonie, qui se réfugie dans le corps de la ruche (partie inférieure).</source>
+        <cible>En effet, la fumée fait paraître un incendie aux abeilles qui, affolées, s'occupent de récupérer des réserves de miel dans leur jabot plus que de défendre leur ruche de l'apiculteur.</cible>
+    </paire>
+    <paire id = "217" vote = "3" moy = "2.1" scores = "3,1.5,1,3,2">
+        <source>La fumée a pour effet de masquer les phéromones émises par les ouvrières donc de calmer la colonie, qui se réfugie dans le corps de la ruche (partie inférieure).</source>
+        <cible>Par contre, les apiculteurs utilisent toujours (ou presque) un outil pour calmer les abeilles en envoyant de la fumée, il s'agit d'un enfumoir.</cible>
+    </paire>
+    <paire id = "218" vote = "1" moy = "0.7" scores = "1,0.5,1,0,1">
+        <source>La journée du 7, le scénario est le même, les Allemands s'approchent encore de la position, mais le tir continu des Français les cloue au sol.</source>
+        <cible>La bataille de Bir Hakeim oppose les Français aux Allemands au cours de la Seconde Guerre mondiale.</cible>
+    </paire>
+    <paire id = "219" vote = "4" moy = "3.6" scores = "4,2,3,4,5">
+        <source>La luette ou uvule est un appendice conique situé au fond de la cavité buccale et proche des tonsilles palatines.</source>
+        <cible>La luette ou uvule est un appendice conique située au fond de la bouche.</cible>
+    </paire>
+    <paire id = "220" vote = "4" moy = "3.2" scores = "3,4,2,4,3">
+        <source>La médecine ayurvédique est utilisée pour traiter les maladies mentales depuis l'an 1 000 av. J. C.</source>
+        <cible>L'ayurveda est utilisé dans le traitement de la schizophrénie, une maladie mentale grave et de longue durée, depuis sa formulation (env. 1000 av. J.-C.), bien que de nos jours, on ait également recours aux antipsychotiques et traitements hospitaliers issus de la médecine occidentale.</cible>
+    </paire>
+    <paire id = "221" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>La mer se déchaîne et l'oblige à écoper sans arrêt et toujours avec les moyens du bord : sa chaussure ou son chapeau.</source>
+        <cible>De 1949 à 1951, il travailla comme médecin interne à l'hôpital de Boulogne-sur-Mer, où il étudia les risques des marins pendant leurs voyages.</cible>
+    </paire>
+    <paire id = "222" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>La partie sédentaire de la colonie est souvent assez faible, surtout dans le cas d'essaimages multiples, et de plus en plus affaiblie par les parasites (notamment à cause du non-renouvellement des cires).</source>
+        <cible>Diviser une ruche pour en produire une ou plusieurs nouvelles sans attendre un essaimage.</cible>
+    </paire>
+    <paire id = "223" vote = "4" moy = "3.6" scores = "3,4,3,4,4">
+        <source>La perméthrine topique semble constituer le traitement le plus efficace contre la gale.</source>
+        <cible>La perméthrine semblait être le traitement topique le plus efficace contre la gale, et l'ivermectine semblait efficace en traitement oral.</cible>
+    </paire>
+    <paire id = "224" vote = "0" moy = "0.5" scores = "2,0.5,0,0,0">
+        <source>La persistance du canal artériel (PCA) est associée à une mortalité et une morbidité chez les nouveau-nés prématurés.</source>
+        <cible>Administration prophylactique d'indométacine intraveineuse pour prévenir la mortalité et la morbidité chez les nouveau-nés prématurés.</cible>
+    </paire>
+    <paire id = "225" vote = "4" moy = "3.2" scores = "4,2,2,4,4">
+        <source>La perte sanguine moyenne (à partir de l'accouchement jusqu'à deux heures post-partum) était inférieure chez les femmes ayant reçu de l'ATX par rapport à un placebo ou à l'absence d'intervention (différence moyenne dm -77,79 ml, ic à 95 % -97,95 à -57,64, cinq essais, 1186 femmes) et cet effet était similaire après un accouchement par voie basse ou par césarienne.</source>
+        <cible>La perte sanguine moyenne était de manière générale inférieure de 77 ml lorsque l'ATX avait été utilisé (cinq études, 1186 femmes) à la fois lors des accouchements par voie basse et par césarienne.</cible>
+    </paire>
+    <paire id = "226" vote = "0" moy = "0.5" scores = "1,0.5,0,0,1">
+        <source>La plupart des biberons d'étain sont de type balustre à tétine vissée sur pied (ou piédouche).</source>
+        <cible>C'est en 1950 seulement que la tétine vissable fut inventée : le biberon de forme hexagonale, contient une sorte de vis pour pouvoir visser le biberon.</cible>
+    </paire>
+    <paire id = "227" vote = "4" moy = "4.4" scores = "5,4,4,4,5">
+        <source>La plupart des études incluaient des participants qui n'avaient pas subi de cholécystectomie antérieure.</source>
+        <cible>La plupart des études incluaient des participants qui n'avaient pas subi d'ablation de la vésicule biliaire (cholécystectomie) antérieure.</cible>
+    </paire>
+    <paire id = "228" vote = "0" moy = "0.9" scores = "1,1.5,0,2,0">
+        <source>La population de la commune étant comprise entre 10 000 et 20 000 habitants, le conseil municipal comprend 33 membres.</source>
+        <cible>Caudry est une commune française peuplée d'environ 14 000 habitants, située dans le sud du département du Nord et de la région Hauts-de-France.</cible>
+    </paire>
+    <paire id = "229" vote = "3" moy = "3.1" scores = "4,1.5,3,3,4">
+        <source>La population est majoritairement russophone, le russe étant aussi langue officielle du pays.</source>
+        <cible>La population parle majoritairement le russe.</cible>
+    </paire>
+    <paire id = "230" vote = "4" moy = "3.4" scores = "5,4,0,4,4">
+        <source>La posologie initiale est de 7,5 mg par jour.</source>
+        <cible>La posologie usuelle est de 7,5 mg de chlorhydrate de moexipril par jour.</cible>
+    </paire>
+    <paire id = "231" vote = "0" moy = "0.2" scores = "0,0,0,0,1">
+        <source>La première salle de spectacle de Boulogne ouvre ses portes en 1772, à l'initiative de Philippe Baret.</source>
+        <cible>Boulogne-sur-Mer est une ville portuaire du nord de la France, dans le département du Pas-de-Calais, région Hauts-de-France.</cible>
+    </paire>
+    <paire id = "232" vote = "4" moy = "4.2" scores = "5,4,4,4,4">
+        <source>La prière est l'une des interventions les plus anciennes et les plus utilisées pour tenter de soulager la maladie et de promouvoir une bonne santé.</source>
+        <cible>La prière d'intercession est l'une des interventions les plus anciennes et les plus utilisées pour tenter de soulager la maladie et de promouvoir une bonne santé.</cible>
+    </paire>
+    <paire id = "233" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>La production de gelée royale fait appel à des techniques particulières, car les abeilles en produisent peu et dans des conditions très précises.</source>
+        <cible>Une grande part d'entre eux vendent leurs produits sur les marchés, et proposent d'autres produits que le miel : du pollen, de la cire, de la propolis ou même de la gelée royale.</cible>
+    </paire>
+    <paire id = "234" vote = "0" moy = "1.9" scores = "3,1.5,0,0,5">
+        <source>La prudence doit être observée en cas d'atteinte du système nerveux central ou périphérique.</source>
+        <cible>- Si vous avez des troubles cérébraux (par exemple un cancer qui s'est propagé au niveau du cerveau), ou des lésions nerveuses (neuropathie).</cible>
+    </paire>
+    <paire id = "235" vote = "4" moy = "3.4" scores = "5,4,0,4,4">
+        <source>La prudence est recommandée chez les sujets atteints d'ulcères gastroduodénaux.</source>
+        <cible>Ce médicament doit être utilisé avec prudence en cas d'ulcère de l'estomac ou du duodénum.</cible>
+    </paire>
+    <paire id = "236" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>La récolte du pollen par l'abeille est possible grâce à l'adaptation spécifique des pattes postérieures de l'ouvrière.</source>
+        <cible>Cette feuille de cire est en général soudée à un fil de fer fin, qui le cadre plus solide pour les manipulations et l'extraction.</cible>
+    </paire>
+    <paire id = "237" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>La réserve naturelle du Sankuru, avec ses 30 570 km2, abrite sans doute plusieurs milliers d'individus, sur une population estimée entre 5 000 et 50 000 (les chiffres sont imprécis, une décennie de guerre civile ayant empêché les chercheurs d'accéder à la zone).</source>
+        <cible>Il ne reste plus que 10 000 et 20 000 bonobos.</cible>
+    </paire>
+    <paire id = "238" vote = "1" moy = "2.2" scores = "4,1,2,3,1">
+        <source>La sélection des meilleurs est le propre du système aristocratique.</source>
+        <cible>Aristocratie veut dire le gouvernement des meilleurs.</cible>
+    </paire>
+    <paire id = "239" vote = "4" moy = "4.2" scores = "4,4,4,4,5">
+        <source>La supplémentation en vitamine A pour prévenir la mortalité et la morbidité à court et à long terme chez les nourrissons de très faible poids de naissance.</source>
+        <cible>La supplémentation en vitamine A pour prévenir les décès et la maladie à court et à long terme chez les nourrissons de très faible poids de naissance.</cible>
+    </paire>
+    <paire id = "240" vote = "4" moy = "4.3" scores = "4,4.5,4,4,5">
+        <source>La surveillance régulière de l'hémostase est impérative, avec une mesure du TCA et éventuellement du facteur VIIIC afin de dépister une maladie de Willebrand.</source>
+        <cible>La surveillance régulière de l'hémostase (facteurs biologiques intervenant dans la coagulation sanguine) est impérative (mesure du TCA et éventuellement du facteur VIIIC afin de dépister une maladie de Willebrand).</cible>
+    </paire>
+    <paire id = "241" vote = "5" moy = "4.1" scores = "4,3.5,3,5,5">
+        <source>La survenue, en début de traitement, d'un érythème généralisé fébrile associé à des pustules doit faire suspecter une pustulose exanthématique aiguë généralisée.</source>
+        <cible>La survenue, en début de traitement, d'une rougeur se généralisant à tout le corps avec des pustules, et accompagnée de fièvre, doit faire suspecter une réaction grave appelée pustulose exanthématique aiguë généralisée.</cible>
+    </paire>
+    <paire id = "242" vote = "5" moy = "4" scores = "4,2,4,5,5">
+        <source>La tachycardie (du grec ancien ταχύς / takhýs = rapide, et καρδία / kardía = cœur) correspond à un rythme cardiaque plus rapide que la normale.</source>
+        <cible>La tachycardie est le terme médical pour désigner une fréquence cardiaque élevée par rapport aux valeurs normales.</cible>
+    </paire>
+    <paire id = "243" vote = "0" moy = "0.5" scores = "2,0.5,0,0,0">
+        <source>La technique porte le nom d'essaimage.</source>
+        <cible>Diviser une ruche pour en produire une ou plusieurs nouvelles sans attendre un essaimage.</cible>
+    </paire>
+    <paire id = "244" vote = "0" moy = "1.1" scores = "2,0.5,0,0,3">
+        <source>La vieille ville est sur une autre colline, à environ 60 mètres d'altitude, ce qui lui vaut le surnom de Haute ville, en opposition à la Basse ville qui comprend le centre-ville et les quartiers près du port et de la plage.</source>
+        <cible>La ville haute, ceinte de remparts, est très pittoresque.</cible>
+    </paire>
+    <paire id = "245" vote = "0" moy = "0.6" scores = "1,0,0,0,2">
+        <source>La vieille ville est sur une autre colline, à environ 60 mètres d'altitude, ce qui lui vaut le surnom de Haute ville, en opposition à la Basse ville qui comprend le centre-ville et les quartiers près du port et de la plage.</source>
+        <cible>La ville haute, sur le camp romain</cible>
+    </paire>
+    <paire id = "246" vote = "3" moy = "1.8" scores = "3,1,0,3,2">
+        <source>La ville a été initialement conçue pour 400 000 habitants alors qu'elle accueille une population de 1,6 million de personnes le 21 avril 2014.</source>
+        <cible>Almaty compte plus de 1 500 000 habitants.</cible>
+    </paire>
+    <paire id = "247" vote = "1" moy = "1.7" scores = "3,1.5,1,2,1">
+        <source>Le 7 janvier 1598, Fédor meurt sans héritier, mettant ainsi fin à la longue dynastie des Riourikides.</source>
+        <cible>Lorsque Fédor Ier meurt sans descendance (1598), Boris Godounov est élu tsar par une assemblée de nobles russes ; mais cette élection est contestée par d'autres seigneurs qui le soupçonnent d'avoir fait assassiner Dimitri, le demi-frère de Fédor Ier.</cible>
+    </paire>
+    <paire id = "248" vote = "2" moy = "1" scores = "2,2,0,0,1">
+        <source>Le biberon, (du latin bibere, « boire ») ou bouteille en Suisse, est un ustensile utilisé pour l'allaitement artificiel.</source>
+        <cible>Au départ, et jusqu'aux XVIe et XVIIe siècles, le biberon est juste un outil pour dégorger le sein trop rempli de lait.</cible>
+    </paire>
+    <paire id = "249" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Le bonobo est, selon lui, un cousin de l'homme seulement moins agressif que celui-ci, mais cette théorie reste à vérifier.</source>
+        <cible>Si cela persiste, le bonobo aura complètement disparu d'ici 50 à 70 ans.</cible>
+    </paire>
+    <paire id = "250" vote = "5" moy = "3.8" scores = "4,2,3,5,5">
+        <source>Le californium (symbole Cf) est l'élément chimique de numéro atomique 98.</source>
+        <cible>Le californium est un élément chimique de numéro atomique 98.</cible>
+    </paire>
+    <paire id = "251" vote = "3" moy = "2.3" scores = "3,1.5,0,3,4">
+        <source>Le californium est le sixième transuranien à avoir été synthétisé.</source>
+        <cible>Il fait partie des transuraniens.</cible>
+    </paire>
+    <paire id = "252" vote = "3" moy = "1.8" scores = "2,0,1,3,3">
+        <source>Le cerveau est le principal organe du système nerveux des animaux appartenant au sous-règne des bilatériens.</source>
+        <cible>Le cerveau est un organe situé dans le crâne et composé de neurones, mais aussi d'autres types de cellules.</cible>
+    </paire>
+    <paire id = "253" vote = "4" moy = "2.1" scores = "2,0.5,0,4,4">
+        <source>Le Club de hockey Canadien a remporté 24 Coupes Stanley, un record de la Ligue nationale de hockey.</source>
+        <cible>En 1993, les Canadiens remportent leur 24e coupe Stanley.</cible>
+    </paire>
+    <paire id = "254" vote = "4" moy = "3.2" scores = "4,4,0,4,4">
+        <source>Le contraire d'une tachycardie est une bradycardie, c'est-à-dire un rythme cardiaque lent.</source>
+        <cible>Son contraire est la bradycardie, qui désigne une fréquence cardiaque trop lente, inférieure à 50 battements par minute.</cible>
+    </paire>
+    <paire id = "255" vote = "2" moy = "2.2" scores = "3,4,0,2,2">
+        <source>Le critère de jugement principal devait inclure l'amélioration des douleurs abdominales, l'évaluation globale ou le score de symptômes.</source>
+        <cible>Nous avons pris en compte les études examinant des agents gonflants (supplément de fibres), des antispasmodiques (relaxants des muscles lisses) ou des antidépresseurs (médicaments utilisés pour traiter la dépression, qui peuvent également modifier la perception de la douleur), qui utilisaient des mesures de résultats incluant l'amélioration des douleurs abdominales, l'évaluation globale (soulagement global des symptômes du SCI) ou le score de symptômes.</cible>
+    </paire>
+    <paire id = "256" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Le degré d'originalité de ces races, leur homogénéité ou leur degré d'hybridation sont peu décrits.</source>
+        <cible>Comme dans la plupart des productions agricoles, les revenus peuvent être irréguliers : élevés une année, faible une autre, en fonction du temps qu'il a fait ou d'imprévus comme des maladies.</cible>
+    </paire>
+    <paire id = "257" vote = "2" moy = "2.2" scores = "3,2,2,2,2">
+        <source>Le développement de la stérilisation du lait à la suite des travaux de l'Allemand Franz von Soxhlet favorise à la fin du XIXe siècle l'utilisation de biberons et tétines stérilisables qui vont transformer les relations entre femme et nourrisson, d'un point de vue symbolique comme d'un point de vue « pratique ».</source>
+        <cible>Heureusement pour la réputation du biberon, la stérilisation du lait, et les biberons stérilisables, sont inventés par l'allemand Franz von Soxhlet, à la fin du XIXe siècle.</cible>
+    </paire>
+    <paire id = "258" vote = "0" moy = "0.7" scores = "2,0.5,0,1,0">
+        <source>Le développement de la stérilisation du lait à la suite des travaux de l'Allemand Franz von Soxhlet favorise à la fin du XIXe siècle l'utilisation de biberons et tétines stérilisables qui vont transformer les relations entre femme et nourrisson, d'un point de vue symbolique comme d'un point de vue « pratique ».</source>
+        <cible>Pour protéger le bébé, il est important de stériliser régulièrement le biberon.</cible>
+    </paire>
+    <paire id = "259" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Le Diable lui apparaît encore de temps en temps, mais ne le tourmente plus comme autrefois.</source>
+        <cible>Gustave Flaubert lui a également consacré un récit, La Tentation de saint Antoine.</cible>
+    </paire>
+    <paire id = "260" vote = "0" moy = "0.4" scores = "2,0,0,0,0">
+        <source>Le Diable lui apparaît encore de temps en temps, mais ne le tourmente plus comme autrefois.</source>
+        <cible>Mais Antoine résiste, sans se laisser abuser par les visions tentatrices.</cible>
+    </paire>
+    <paire id = "261" vote = "4" moy = "2.5" scores = "4,1.5,0,3,4">
+        <source>Le diclofénac comme tous les AINS passant dans le lait maternel, par mesure de précaution, il convient d'éviter de les administrer chez la femme qui allaite.</source>
+        <cible>Par mesure de précaution, il convient d'éviter de l'utiliser pendant l'allaitement.</cible>
+    </paire>
+    <paire id = "262" vote = "4" moy = "2.7" scores = "4,1.5,0,4,4">
+        <source>Le diclofénac, administré sous forme de gel, est réservé à l'adulte, en l'absence d'études spécifiques d'innocuité menées chez l'enfant.</source>
+        <cible>La forme gel est réservée à l'adulte.</cible>
+    </paire>
+    <paire id = "263" vote = "0" moy = "0.2" scores = "0,1,0,0,0">
+        <source>Le flacon de verre creux hexagonal est pourvu d'un large pas de vis sur lequel se fixe une bague qui retient la tétine, le tout protégé par un obturateur et l'ensemble n'a pas encore de bouchon.</source>
+        <cible>C'est un peu plus tard que le bouchon fut inventé.</cible>
+    </paire>
+    <paire id = "264" vote = "0" moy = "0.5" scores = "1,1.5,0,0,0">
+        <source>Le mâle mesure environ 1,19 m pour un poids allant de 37 à 61 kg (45 kg en moyenne).</source>
+        <cible>Il fait de 70 cm à 100 cm.</cible>
+    </paire>
+    <paire id = "265" vote = "0" moy = "0.4" scores = "1,0,1,0,0">
+        <source>Le pollen est d'abord une source de protides pour les abeilles, il entre dans la composition de la nourriture distribuée au couvain.</source>
+        <cible>En effet, c'est au centre de cet espace que se trouve le couvain, c'est-à-dire les œufs et larves des futures abeilles.</cible>
+    </paire>
+    <paire id = "266" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Le port de gants de protection est fréquent, mais complique les manipulations.</source>
+        <cible>Une grande part d'entre eux vendent leurs produits sur les marchés, et proposent d'autres produits que le miel : du pollen, de la cire, de la propolis ou même de la gelée royale.</cible>
+    </paire>
+    <paire id = "267" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Le port souffre également du déclin de la filière halieutique.</source>
+        <cible>Le port est industriel, d'importance régionale.</cible>
+    </paire>
+    <paire id = "268" vote = "5" moy = "3.6" scores = "4,4,0,5,5">
+        <source>Le praticien est appelé oto-rhino-laryngologiste ou otorhinolaryngologiste (ORL).</source>
+        <cible>Le médecin spécialisé dans l'oto-rhino-laryngologie est l'oto-rhino-laryngologue (ou ORL, qui reprend les initiales).</cible>
+    </paire>
+    <paire id = "269" vote = "0" moy = "0.3" scores = "1,0.5,0,0,0">
+        <source>Le rayon d'action des abeilles se limite à 3 km, ce qui peut limiter la production d'un rucher quand la végétation ou la floraison sont limitées.</source>
+        <cible>Déplacer les ruches de plusieurs kilomètres pour permettre aux abeilles de profiter d'une floraison importante qui n'existe pas à proximité de leur premier emplacement : c'est la transhumance.</cible>
+    </paire>
+    <paire id = "270" vote = "3" moy = "3.2" scores = "4,4,2,3,3">
+        <source>Le risque de piqûre nécessite le port de vêtements protecteurs.</source>
+        <cible>Pour pouvoir intervenir sur une ruche (récolte ou simple visite), l'apiculteur s'habille d'un vêtement protecteur, notamment avec un voile devant le visage.</cible>
+    </paire>
+    <paire id = "271" vote = "2" moy = "2.4" scores = "2,4,2,2,2">
+        <source>Le risque de piqûre nécessite le port de vêtements protecteurs.</source>
+        <cible>Un certain nombre d'apiculteurs interviennent mains ou bras nus, mais avec une protection au niveau de la tête.</cible>
+    </paire>
+    <paire id = "272" vote = "5" moy = "4.6" scores = "5,4,4,5,5">
+        <source>Le taux de mortalité ou dépendance n'était pas différent entre le groupe de traitement et le groupe placébo à un et trois mois.</source>
+        <cible>Aucune différence significative n'a été observée en termes de mortalité et dépendance à un et trois mois entre le groupe de traitement et le groupe placébo.</cible>
+    </paire>
+    <paire id = "273" vote = "3" moy = "4" scores = "5,4,3,5,3">
+        <source>Le traitement de la schizophrénie dépend fortement des médicaments neuroleptiques.</source>
+        <cible>Les médicaments antipsychotiques sont généralement le traitement de première intention de la schizophrénie.</cible>
+    </paire>
+    <paire id = "274" vote = "0" moy = "2.2" scores = "4,3,0,0,4">
+        <source>Le traitement devra être réévalué en cas de persistance ou d'aggravation des symptômes ou de la pathologie.</source>
+        <cible>Dans ce cas, consultez votre médecin pour une réévaluation de votre traitement.</cible>
+    </paire>
+    <paire id = "275" vote = "4" moy = "3.6" scores = "4,4,2,4,4">
+        <source>Le traitement doit être aussi bref que possible.</source>
+        <cible>La durée du traitement doit être aussi brève que possible et ne devrait pas dépasser 8 à 12 semaines.</cible>
+    </paire>
+    <paire id = "276" vote = "3" moy = "2.1" scores = "3,0.5,3,1,3">
+        <source>Le traitement du cancer de la cavité orale consiste généralement en une intervention chirurgicale suivie d'une radiothérapie, alors que les cancers oropharyngés, qui sont plus susceptibles d'être à un stade avancé lors de leur diagnostic, sont traités par radiothérapie ou chimioradiothérapie.</source>
+        <cible>Le cancer oropharyngé (gorge) peut être à un stade avancé lorsqu'il est dépisté et traité par radiothérapie.</cible>
+    </paire>
+    <paire id = "277" vote = "5" moy = "4" scores = "5,4,2,4,5">
+        <source>Le traitement par le danazol a entraîné une réduction de la durée des règles et une augmentation des effets indésirables par rapport aux AINS, mais ceci ne semble pas avoir affecté l'acceptabilité du traitement.</source>
+        <cible>Le danazol a entraîné une réduction de la durée des saignements et une augmentation des effets indésirables par rapport aux AINS, mais sans pour autant que les femmes arrêtent de l'utiliser.</cible>
+    </paire>
+    <paire id = "278" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Le triangle ainsi déterminé sur le terrain, qui est baptisé zone du V, est surveillé par des patrouilles motorisées de la brigade FFL.</source>
+        <cible>La bataille de Bir Hakeim oppose les Français aux Allemands au cours de la Seconde Guerre mondiale.</cible>
+    </paire>
+    <paire id = "279" vote = "0" moy = "0.6" scores = "2,0,0,0,1">
+        <source>Les « stérilisateurs » et les chauffe-biberons sont encore d'usage courant, même si les autorités sanitaires françaises (notamment l'Agence française de sécurité sanitaire en 2005) précisent que :</source>
+        <cible>Pour protéger le bébé, il est important de stériliser régulièrement le biberon.</cible>
+    </paire>
+    <paire id = "280" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Les abeilles ventilent abondamment leur ruche pour en évacuer la chaleur excédentaire, l'humidité, et l'air vicié.</source>
+        <cible>Lorsque les alvéoles sont pleines de miel, les abeilles les ont fermées par une petite couche de cire, une opercule.</cible>
+    </paire>
+    <paire id = "281" vote = "4" moy = "4.1" scores = "4,4.5,3,5,4">
+        <source>Les AINS réduisent les SMA lorsqu'on les compare à un placebo mais sont moins efficaces que l'acide tranexamique, le danazol ou le DIU LNG.</source>
+        <cible>La revue des essais a révélé que les AINS ont une efficacité modeste sur la réduction des SMA, mais que le danazol, l'acide tranexamique et le DIU LNG sont plus efficaces.</cible>
+    </paire>
+    <paire id = "282" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Les Allemands comme les Alliés épargnent la ville fortifiée et ses monuments, ainsi que les maisons bourgeoises de l'ancien rivage.</source>
+        <cible>La ville haute, ceinte de remparts, est très pittoresque.</cible>
+    </paire>
+    <paire id = "283" vote = "4" moy = "2.4" scores = "3,4,1,0,4">
+        <source>Les apiculteurs les mieux équipés utilisent plutôt un extracteur centrifuge.</source>
+        <cible>Un couteau permet de les enlever puis on fait sortir le miel grâce à un extracteur, c'est-à-dire une sorte de centrifugeuse.</cible>
+    </paire>
+    <paire id = "284" vote = "0" moy = "0.5" scores = "1,1.5,0,0,0">
+        <source>Les apiculteurs ont mis au point une trappe à pollen qu'ils placent à l'entrée de la ruche.</source>
+        <cible>Le travail de l'apiculteur consiste à fournir aux colonies d'abeilles un logement adapté (la ruche), dans lequel elles peuvent construire des rayons de cire ; et à récolter une partie du miel qu'elle produisent.</cible>
+    </paire>
+    <paire id = "285" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Les apiculteurs professionnels utilisent de moins en moins les populations locales comme l'Abeille noire, au profit de races sélectionnées à l'étranger, qui peuvent être peu adaptées aux conditions locales.</source>
+        <cible>Les ruches modernes contiennent des cadres faits pour contenir chacun un rayon de cire, ce qui permet de les retirer facilement pour les observer, les échanger ou en extraire le miel.</cible>
+    </paire>
+    <paire id = "286" vote = "0" moy = "0.7" scores = "2,0.5,0,0,1">
+        <source>Les apiculteurs recyclent la cire des cadres détruits pour fabriquer des feuilles de cire gaufrée.</source>
+        <cible>C'est une feuille de cire dite gauffrée, puisqu'elle a été moulée avec le même dessin que celui du fond des rayons que les abeilles construisent d'elles-mêmes.</cible>
+    </paire>
+    <paire id = "287" vote = "3" moy = "1.8" scores = "3,0,2,1,3">
+        <source>Les Arawaks (Arahuacos en espagnol, Aroüagues dans les écrits français du XVIIe siècle) sont des Amérindiens des Antilles issus de la forêt amazonienne, proches de la culture saladoïde.</source>
+        <cible>Originaires de la partie Nord de l'Amérique du Sud, les Arawaks se sont aussi installés dans d'autres îles des Antilles (dont Cuba, la Guadeloupe, la Martinique, etc).</cible>
+    </paire>
+    <paire id = "288" vote = "0" moy = "1.5" scores = "0,3.5,0,1,3">
+        <source>Les Arawaks d'Hispaniola furent réduits en esclavage.</source>
+        <cible>Ils ont ensuite été dominés par un autre peuple amérindien, les Caraïbes.</cible>
+    </paire>
+    <paire id = "289" vote = "1" moy = "2.2" scores = "2,1,1,3,4">
+        <source>Les biberons de fer blanc sont des petits pots à longs bec, réductions d'ustensiles ménagers de l'époque.</source>
+        <cible>On a ensuite fait des biberons en étain et en fer blanc.</cible>
+    </paire>
+    <paire id = "290" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Les bourdons, jugés plus résistants et plus actifs à basse température (10 - 18°C) que les abeilles.</source>
+        <cible>Sans cette précaution lorsqu'on ouvre une ruche, l'excitation d'une colonie peut monter, et la rendre très dangereuse, étant donné le nombre des abeilles.</cible>
+    </paire>
+    <paire id = "291" vote = "0" moy = "0.4" scores = "2,0,0,0,0">
+        <source>Les bras de rappel n'existent pas : seuls la tension du fil de contact ainsi qu'un positionnement judicieux des points de fixation du fil porteur permettent au fil de contact de suivre l'axe de la voie.</source>
+        <cible>La transmission du courant électrique entre la machine et la caténaire se fait par l'intermédiaire d'un pantographe (bras articulé situé sur la motrice du train).</cible>
+    </paire>
+    <paire id = "292" vote = "2" moy = "3" scores = "3,2,2,5,3">
+        <source>Les cas de dysphagie (problèmes de déglutition) sont fréquents après un AVC et peuvent entraîner une infection pulmonaire et une malnutrition.</source>
+        <cible>Un AVC est souvent aggravé par des problèmes de déglutition (dysphagie) et une insuffisance nutritionnelle.</cible>
+    </paire>
+    <paire id = "293" vote = "4" moy = "3.4" scores = "5,4,0,4,4">
+        <source>Les comprimés de capécitabine doivent être pris avec de l'eau dans les 30 minutes suivant un repas.</source>
+        <cible>- Prenez les comprimés dans les 30 minutes suivant la fin d'un repas (petit déjeuner et dîner) et avalez-les entiers avec de l'eau.</cible>
+    </paire>
+    <paire id = "294" vote = "4" moy = "3.8" scores = "5,4,2,4,4">
+        <source>Les décideurs politiques n'ont aucune preuve fondée sur les essais pour guider les recommandations pour le traitement de l'hypersalivation induit par les neuroleptiques autres que la clozapine.</source>
+        <cible>Le traitement de l'hypersalivation, causée par des antipsychotiques ou des neuroleptiques autres que la clozapine, ne semble pas avoir reçu une recherche adéquate pour aider à guider la pratique clinique.</cible>
+    </paire>
+    <paire id = "295" vote = "4" moy = "3.4" scores = "5,4,0,4,4">
+        <source>Les données de sept essais portant sur 341 personnes sont incluses dans cette revue.</source>
+        <cible>Les données de sept essais portant sur 341 personnes atteintes de lésions cérébrales sont incluses dans cette revue.</cible>
+    </paire>
+    <paire id = "296" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Les dunes de La Falaise, en limite de territoire avec le Croisic, accueillent à partir de 1853 un établissement de bains, à l'initiative de Louis Killian, carrier qui se reconvertit en baigneur.</source>
+        <cible>Cette station balnéaire bordée par l'océan Atlantique est située sur la côte d'Amour.</cible>
+    </paire>
+    <paire id = "297" vote = "3" moy = "3.2" scores = "4,4,2,3,3">
+        <source>Les ECR incluaient des receveurs de GSCH des deux sexes, d'âges très divers et atteints de différentes maladies.</source>
+        <cible>Les ECR incluaient des sujets des deux sexes, d'âges très divers et souffrant de différentes maladies, receveurs d'autogreffes ou d'allogreffes de CSH.</cible>
+    </paire>
+    <paire id = "298" vote = "5" moy = "4.3" scores = "5,3.5,3,5,5">
+        <source>Les effets graves intéressant les systèmes hépatique et/ou dermatologique ainsi que les réactions d'hypersensibilité imposent l'arrêt du traitement.</source>
+        <cible>Le traitement doit être arrêté en cas de réaction allergique généralisée, éruption cutanée ou altérations de la fonction du foie.</cible>
+    </paire>
+    <paire id = "299" vote = "0" moy = "0.3" scores = "1,0.5,0,0,0">
+        <source>Les éleveurs de reines disposent de ruches dédiées à leur activité.</source>
+        <cible>L'apiculture est une activité qui consiste à élever des abeilles à miel.</cible>
+    </paire>
+    <paire id = "300" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Les espèces domestiquées sont principalement Apis mellifera et Apis cerana, ainsi que Meliponini, une tribu sans dard qu'on rencontre dans les régions tropicales.</source>
+        <cible>En effet, la fumée fait paraître un incendie aux abeilles qui, affolées, s'occupent de récupérer des réserves de miel dans leur jabot plus que de défendre leur ruche de l'apiculteur.</cible>
+    </paire>
+    <paire id = "301" vote = "3" moy = "3.2" scores = "3,4,3,3,3">
+        <source>Les études examinées ont été réalisées à trop petite échelle pour déterminer si le remplissage était bénéfique aux femmes recevant une analgésie régionale au cours du travail avec les anesthésiques ou les opioïdes locaux à plus faible dose.</source>
+        <cible>Les preuves sont insuffisantes pour déterminer si le remplissage est bénéfique aux femmes recevant une analgésie régionale au cours du travail avec les agents à plus faible dose ou aux femmes ayant des complications de grossesse.</cible>
+    </paire>
+    <paire id = "302" vote = "1" moy = "1.8" scores = "4,2,1,1,1">
+        <source>Les Français libres ont, dès l'origine, gravement perturbé l'offensive de Rommel.</source>
+        <cible>Dans des conditions difficiles, les Français ralentissent pendant seize jours la progression de l'Afrika Korps du général allemand Erwin Rommel.</cible>
+    </paire>
+    <paire id = "303" vote = "5" moy = "4.8" scores = "5,4,5,5,5">
+        <source>Les hernies incisionnelles sont dues à une mauvaise cicatrisation de la paroi abdominale après une chirurgie abdominale, laissant place à un orifice dans lequel on observe une protrusion viscérale.</source>
+        <cible>Les hernies incisionnelles sont dues à une mauvaise cicatrisation de la paroi abdominale après une chirurgie abdominale, laissant place à un orifice dans lequel on observe une protrusion viscérale (intestins).</cible>
+    </paire>
+    <paire id = "304" vote = "4" moy = "2.2" scores = "3,4,0,4,0">
+        <source>Les hernies incisionnelles sont réparées grâce à une intervention chirurgicale supplémentaire.</source>
+        <cible>Les hernies peuvent être réparées grâce à une intervention chirurgicale au cours de laquelle un drain est généralement introduit pour absorber l'excès de liquides.</cible>
+    </paire>
+    <paire id = "305" vote = "5" moy = "4.8" scores = "5,5,4,5,5">
+        <source>Les informations sur l'état de développement neurologique à long terme suggèrent une absence de preuve quant au bénéfice ou préjudice de l'intervention.</source>
+        <cible>Les informations sur l'état de développement neurologique à long terme indiquent une absence de preuve quant au bénéfice ou préjudice de l'intervention.</cible>
+    </paire>
+    <paire id = "306" vote = "4" moy = "3.4" scores = "4,4,2,4,3">
+        <source>Les instruments chirurgicaux existent depuis les temps préhistoriques.</source>
+        <cible>Historiquement, l'archéologie a révélé des outils de chirurgie dès le néolithique, et un grand nombre d'instruments très proches des nôtres dès l'antiquité romaine.</cible>
+    </paire>
+    <paire id = "307" vote = "5" moy = "3.7" scores = "5,4.5,2,4,3">
+        <source>Les médicaments antifongiques sont souvent donnés à titre prophylactique, ou de manière empirique, aux patients atteints de fièvre persistante.</source>
+        <cible>Les médicaments antifongiques sont souvent administrés de manière systématique à titre préventif, ou lorsque des personnes à risque ont de la fièvre.</cible>
+    </paire>
+    <paire id = "308" vote = "0" moy = "1.3" scores = "4,0.5,0,2,0">
+        <source>Les méta-analyses n'ont montré aucune preuve d'une différence entre les interventions et les soins habituels pour la plaque dentaire (différence moyenne de -0,04, intervalle de confiance à 95 % (IC) -0,26 à 0,17.</source>
+        <cible>Nous n'avons pas pu identifier un effet bénéfique notable de la formation offerte aux infirmiers et/ou aux résidents sur la santé dentaire des résidents, telle qu'évalué en fonction des plaques présentes sur les dents et sur les dentiers.</cible>
+    </paire>
+    <paire id = "309" vote = "3" moy = "3.2" scores = "3,4,2,4,3">
+        <source>Les nutriments sont des composants élémentaires contenus dans les aliments, ou issus de la nature ambiante.</source>
+        <cible>Les nutriments sont des composants élémentaires contenus dans les aliments, ou issus du milieu naturel, et utilisés par l'organisme pour couvrir ses besoins, notamment de croissance et de développement.</cible>
+    </paire>
+    <paire id = "310" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Les ouvrières s'emploient toute leur vie à récolter ces matières-premières (nectar de fleurs, pollen, propolis...) en vue de fournir à la ruche les matériaux qui lui sont nécessaires, et de produire de la nourriture.</source>
+        <cible>Il est composé d'une reine, de plusieurs milliers d'ouvrières et d'un nombre de mâles appelés faux-bourdons, variable selon la saison.</cible>
+    </paire>
+    <paire id = "311" vote = "4" moy = "3" scores = "4,1,1,4,5">
+        <source>Les paramètres de la coagulation (INR ou TP) des patients prenant de façon concomitante de la capécitabine et des anticoagulants coumariniques doivent être surveillés attentivement et la dose d'anticoagulants ajustée en conséquence.</source>
+        <cible>Si vous prenez un anticoagulant coumarinique (contenant par exemple de la phenprocoumone), l'arrêt de la capécitabine peut conduire votre médecin à ajuster les posologies de votre anticoagulant.</cible>
+    </paire>
+    <paire id = "312" vote = "0" moy = "0.3" scores = "1,0.5,0,0,0">
+        <source>Les patrouilles britanniques recueilleront encore de nombreux isolés et égarés au cours de la journée.</source>
+        <cible>Cela va permettre aux troupes anglaises du maréchal Bernard Montgomery de se replier, puis de vaincre, au cours de la première bataille d'El Alamein.</cible>
+    </paire>
+    <paire id = "313" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Les petits apiculteurs possédant moins de dix ruches étaient plus de 53 000 en 2005.</source>
+        <cible>Les abeilles sont trop nombreuses pour qu'on puisse les différencier chacune, mais par contre on observe que les colonies (ou ruches) peuvent avoir chacune un caractère particulier.</cible>
+    </paire>
+    <paire id = "314" vote = "0" moy = "0.7" scores = "0,2.5,0,0,1">
+        <source>Les populations sont en déclin.</source>
+        <cible>Il est menacé par le braconnage et la déforestation.</cible>
+    </paire>
+    <paire id = "315" vote = "4" moy = "3.8" scores = "4,4,3,4,4">
+        <source>Les preuves actuelles sont encourageantes, mais ne sont pas encore suffisamment probantes pour recommander le recours systématique aux agents de déplétion du fibrogène pour le traitement d'un AVC ischémique aigu.</source>
+        <cible>Les preuves tirées de cette revue mise à jour, qui inclut huit essais impliquant 5 701 participants, sont actuellement insuffisantes pour recommander le recours systématique à des agents de déplétion du fibrinogène pour le traitement d'un AVC ischémique aigu.</cible>
+    </paire>
+    <paire id = "316" vote = "4" moy = "3.6" scores = "4,3,2,4,5">
+        <source>Les preuves issues d'essais contrôlés randomisés sont insuffisantes pour déterminer l'efficacité relative du traitement chirurgical par rapport au traitement conservateur dans les lésions aiguës du complexe ligamentaire latéral de la cheville.</source>
+        <cible>Nous en concluons que les preuves issues d'essais contrôlés randomisés sont insuffisantes pour déterminer si la chirurgie confère de meilleurs résultats que le traitement conservateur dans l'entorse aiguë de la cheville chez l'adulte.</cible>
+    </paire>
+    <paire id = "317" vote = "5" moy = "4.3" scores = "5,4.5,2,5,5">
+        <source>Les preuves tirées d'autres comparaisons d'implants extramédullaires ou de l'utilisation de fixateurs externes ont été insuffisantes pour établir des conclusions formelles.</source>
+        <cible>Cependant, les preuves n'ont pas été suffisantes pour établir des conclusions pour d'autres comparaisons d'implants extramédullaires ou concernant l'utilisation de fixateurs externes.</cible>
+    </paire>
+    <paire id = "318" vote = "0" moy = "2.9" scores = "5,4.5,0,0,5">
+        <source>Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration.</source>
+        <cible>Vous pouvez également déclarer les effets indésirables directement via le système national de déclaration.</cible>
+    </paire>
+    <paire id = "319" vote = "0" moy = "1" scores = "1,0,1,3,0">
+        <source>Les réflexes, schémas de réponses simples, ne nécessitent pas l'intervention du cerveau.</source>
+        <cible>Le cerveau est le chef d'orchestre des mouvements volontaires.</cible>
+    </paire>
+    <paire id = "320" vote = "5" moy = "4.8" scores = "5,5,4,5,5">
+        <source>Les religieux ayant adopté le mode de vie solitaire de saint Antoine sont appelés anachorètes, s'opposant aux cénobites qui choisissent la vie en communautés monastiques.</source>
+        <cible>Les religieux ayant adopté le mode de vie solitaire de saint Antoine sont appelés anachorètes, s'opposant aux cénobites qui choisissent la vie dans les communautés monastiques.</cible>
+    </paire>
+    <paire id = "321" vote = "4" moy = "3.2" scores = "4,1,2,4,5">
+        <source>Les résultats de cette revue étayent l'utilisation de l'IIU à la place de l'IIC dans les cycles stimulés utilisant du sperme cryoconservé pour insémination avec donneur.</source>
+        <cible>Cette revue étaye donc l'utilisation de l'IIU à la place de l'IIC pour l'insémination avec donneur.</cible>
+    </paire>
+    <paire id = "322" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Les ruches en paille tressée, plus tardives, sont mentionnées pour la première fois dans une ordonnance de Charlemagne, datée de 799, le Capitulaire De Villis.</source>
+        <cible>Lorsqu'on récolte le miel, que la ruche contient des réserves, et aussi une population nombreuse, elle est beaucoup plus agressive.</cible>
+    </paire>
+    <paire id = "323" vote = "0" moy = "0.2" scores = "0,0,0,0,1">
+        <source>Les ruches en paille tressée, plus tardives, sont mentionnées pour la première fois dans une ordonnance de Charlemagne, datée de 799, le Capitulaire De Villis.</source>
+        <cible>Quant au mot ruche, il désigne soit seulement le logement des abeilles, soit ce logement et la colonie qui l'occupe.</cible>
+    </paire>
+    <paire id = "324" vote = "4" moy = "3.4" scores = "4,4,0,5,4">
+        <source>Les symptômes du sevrage peuvent se manifester dans les jours qui suivent l'arrêt du traitement.</source>
+        <cible>Arrêter brutalement ce traitement peut provoquer l'apparition d'un phénomène de sevrage.</cible>
+    </paire>
+    <paire id = "325" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Les trolleybus utilisent une seconde ligne pour le retour du courant, le retour par le sol étant impossible.</source>
+        <cible>En ce qui concerne les tramways, ce mode d'alimentation par les caténaires est appelé ligne aérienne de contact (L.A.C), et ne se compose que d'un à deux câbles simples.</cible>
+    </paire>
+    <paire id = "326" vote = "0" moy = "1.4" scores = "2,4,0,0,1">
+        <source>Leur production à cette époque est estimée annuellement à 500 kilogrammes de miel et 70 kilogrammes de cire.</source>
+        <cible>Une ruche produit de quelques kilogrammes de miel (ou aucun) à 40-50 kilogrammes ou plus par an, qui sont parfois produits sur une durée assez courte, d'un ou deux mois.</cible>
+    </paire>
+    <paire id = "327" vote = "3" moy = "2" scores = "3,4,0,0,3">
+        <source>Lors de la récolte, l'apiculteur extrait les cadres de hausse en remettant les abeilles dans la ruche.</source>
+        <cible>En général, il ne prend que ceux des hausses, et n'enlève aucun de l'espace principal qu'on appelle corps de ruche.</cible>
+    </paire>
+    <paire id = "328" vote = "0" moy = "1" scores = "1,4,0,0,0">
+        <source>Lors de la récolte, l'apiculteur extrait les cadres de hausse en remettant les abeilles dans la ruche.</source>
+        <cible>Lorsque les alvéoles sont pleines de miel, les abeilles les ont fermées par une petite couche de cire, une opercule.</cible>
+    </paire>
+    <paire id = "329" vote = "4" moy = "4.4" scores = "5,4,4,5,4">
+        <source>Lors du deuxième et troisième trimestre de grossesse, la clindamycine peut être utilisée si nécessaire.</source>
+        <cible>Lors du deuxième et troisième trimestre de grossesse, la clindamycine peut être utilisée si votre médecin juge que le traitement est nécessaire.</cible>
+    </paire>
+    <paire id = "330" vote = "0" moy = "0.3" scores = "1,0.5,0,0,0">
+        <source>Mais alors, cette facilité peut-être trop grande de la déglutition d'une grande quantité de lait, peut offrir des inconvénients, et c'est afin de rapprocher le plus possible l'allaitement artificiel de l'allaitement naturel que les biberons ont été inventés.</source>
+        <cible>La tétine est généralement percée d'un petit trou qui fait que, lorsque le bébé tète, la tétine envoie par petites quantités et régulièrement le contenu du biberon.</cible>
+    </paire>
+    <paire id = "331" vote = "2" moy = "3.2" scores = "5,2,4,2,3">
+        <source>Mais, la même année, elle perd son statut de capitale politique du Kazakhstan au profit d'Akmola rebaptisée Astana.</source>
+        <cible>La ville a été la capitale du Kazakhstan jusqu'en 1997, date à laquelle elle est remplacée par Astana.</cible>
+    </paire>
+    <paire id = "332" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Manquant de légitimité historique (il n'est qu'un tsar élu), Boris tente d'unir sa famille aux Maisons royales européennes.</source>
+        <cible>Une période de troubles s'installe alors en Russie, elle prendra fin avec l'élection du tsar Michel Romanov en 1613.</cible>
+    </paire>
+    <paire id = "333" vote = "2" moy = "1.1" scores = "2,0.5,0,1,2">
+        <source>Maurice Richard, aussi appelé « Le Rocket » fut l'un des joueurs les plus marquants du hockey.</source>
+        <cible>Le 13 mars 1945 le légendaire Maurice Richard devient le premier joueur de la LNH a compté 50 buts en 50 parties.</cible>
+    </paire>
+    <paire id = "334" vote = "2" moy = "1.1" scores = "2,0.5,0,1,2">
+        <source>Menacée depuis plusieurs années, l'abeille est devenue le symbole de la protection de la biodiversité et de l'environnement.</source>
+        <cible>Si l'on a pu évaluer dans les ruches la disparition de beaucoup d'abeilles, le problème est identique pour un grand nombre d'insectes sauvages non ravageurs qui participent à la pollinisation des fleurs et favorisent ainsi la multiplication des graines et des fruits.</cible>
+    </paire>
+    <paire id = "335" vote = "4" moy = "3.4" scores = "4,4,0,5,4">
+        <source>Metformine Isomed 1000 mg en monothérapie n'entraîne pas d'hypoglycémie, et n'a donc pas d'effet sur l'aptitude à conduire des véhicules ou à utiliser des machines.</source>
+        <cible>Ce médicament utilisé seul n'entraîne pas d'hypoglycémie et n'a donc pas d'effet sur l'aptitude à conduire des véhicules ou à utiliser des machines.</cible>
+    </paire>
+    <paire id = "336" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Mettre une ruche dans son jardin ou sur sa terrasse, c'est réimplanter dans son milieu un pollinisateur qui y était présent depuis des milliers d'années mais que l'agriculture moderne, l'usage intensif de pesticides et les remembrements ont fini par faire disparaître.</source>
+        <cible>Sur plainte des apiculteurs qui voyaient diminuer le nombre de leurs abeilles et de la production de miel, on a interdit certains insecticides, mais ils continuent à polluer les sols où ils ont été vaporisés.</cible>
+    </paire>
+    <paire id = "337" vote = "2" moy = "1.5" scores = "2,0.5,0,3,2">
+        <source>Nous avons effectué des recherches dans le registre d'essais du groupe cochrane sur la santé bucco-dentaire (jusqu'au 18 janvier 2016), le registre Cochrane des essais contrôlés (central) (la Cochrane Library, 2015, numéro 12), MEDLINE OVID (de 1946 au 18 janvier 2016), EMBASE OVID (de 1980 au 18 janvier 2016), EBSCO CINAHL (de 1937 au 18 janvier 2016) et Web of science conference proceedings (de 1990 au 18 janvier 2016).</source>
+        <cible>Nous avons recherché des études pertinentes ayant été menées jusqu'en janvier 2016 et nous avons identifié neuf essais portant sur un total de 3253 résidents d'établissements pour personnes âgées.</cible>
+    </paire>
+    <paire id = "338" vote = "0" moy = "1.1" scores = "3,0.5,0,2,0">
+        <source>Nous avons évalué les bénéfices et les risques cliniques des agents stimulant l'érythropoïèse contre l'anémie dans la polyarthrite rhumatoïde.</source>
+        <cible>Qu'est-ce que l'anémie dans la polyarthrite rhumatoïde et que sont les agents stimulant l'érythropoïèse.</cible>
+    </paire>
+    <paire id = "339" vote = "3" moy = "1.8" scores = "3,1,0,2,3">
+        <source>Nous avons inclus tous les essais cliniques randomisés d'une durée supérieure à un mois portant sur des patients présentant un double diagnostic de schizophrénie et de difficulté d'apprentissage (définie comme un QI inférieur ou égal à 70) et évaluant un traitement antipsychotique par rapport à un placebo.</source>
+        <cible>Les patients présentant un diagnostic de difficulté d'apprentissage et de schizophrénie se voient généralement prescrire un traitement antipsychotique.</cible>
+    </paire>
+    <paire id = "340" vote = "4" moy = "3" scores = "4,2,1,4,4">
+        <source>Nous avons trouvé deux essais totalisant 132 participants qui répondaient à nos critères d'inclusion.</source>
+        <cible>Nous avons identifié deux études pour l'inclusion.</cible>
+    </paire>
+    <paire id = "341" vote = "5" moy = "3.8" scores = "3,4,2,5,5">
+        <source>Nous n'avons pas trouvé suffisamment de preuves pour tirer des conclusions solides à propos des effets des interventions éducatives relatives à la santé bucco-dentaire pour le personnel des établissements pour personnes âgées et les résidents.</source>
+        <cible>Étant donné que les programmes éducatifs n'ont pas été entièrement décrits, les résultats ne permettent pas de tirer de conclusions claires concernant l'efficacité ou les effets délétères potentiels des interventions éducatives spécifiques à la santé bucco-dentaire dans les établissements pour personnes âgées.</cible>
+    </paire>
+    <paire id = "342" vote = "4" moy = "3.2" scores = "3,4,1,4,4">
+        <source>Nous n'avons pas trouvé suffisamment de preuves pour tirer des conclusions solides à propos des effets des interventions éducatives relatives à la santé bucco-dentaire pour le personnel des établissements pour personnes âgées et les résidents.</source>
+        <cible>Nous n'avons pas pu identifier un effet bénéfique notable de la formation offerte aux infirmiers et/ou aux résidents sur la santé dentaire des résidents, telle qu'évalué en fonction des plaques présentes sur les dents et sur les dentiers.</cible>
+    </paire>
+    <paire id = "343" vote = "4" moy = "3.3" scores = "4,1.5,2,5,4">
+        <source>Outre la nécessité de décroissance progressive des doses, les patients devront être avertis de la possibilité d'un phénomène de rebond, afin de minimiser l'anxiété qui pourrait découler des symptômes liés à cette interruption, même progressive.</source>
+        <cible>Malgré la décroissance progressive des doses, un phénomène de rebond sans gravité peut se produire, avec réapparition transitoire des symptômes (anxiété) qui avaient justifié la mise en route du traitement.</cible>
+    </paire>
+    <paire id = "344" vote = "5" moy = "4.9" scores = "5,4.5,5,5,5">
+        <source>Par conséquent, confirmer le placement de la sonde dans l'estomac après son insertion est important.</source>
+        <cible>Par conséquent, la confirmation du positionnement de la sonde dans l'estomac après l'insertion est importante.</cible>
+    </paire>
+    <paire id = "345" vote = "4" moy = "4" scores = "4,4,4,4,4">
+        <source>Par conséquent, nous ne pouvons pas établir avec certitude les effets du début plus tardif des cours.</source>
+        <cible>En raison du nombre limité de preuves et de leur très faible qualité, nous n'avons pas pu déterminer avec confiance les effets du début plus tardif des cours.</cible>
+    </paire>
+    <paire id = "346" vote = "4" moy = "3.8" scores = "4,4,3,4,4">
+        <source>Par contre, en association avec d'autres antidiabétiques (sulfamides hypoglycémiants, insuline, répaglinide), il convient d'attirer l'attention du patient sur les risques de survenue d'hypoglycémie.</source>
+        <cible>Par contre, en association avec d'autres antidiabétiques hypoglycémiants (sulfamides hypoglycémiants, insuline, répaglinide), l'attention des conducteurs doit être attirée sur les symptômes d'une hypoglycémie et ses effets sur la vigilance.</cible>
+    </paire>
+    <paire id = "347" vote = "0" moy = "0.9" scores = "1,1.5,0,0,2">
+        <source>Parallèlement à l'essaimage naturel, la transhumance des ruches est pratiquée lorsqu'un espace floral était entièrement exploité.</source>
+        <cible>D'autre part, lorsqu'il y a une floraison importante comme le romarin, le châtaignier, l'acacia ou la lavande, les abeilles vont aller principalement sur cette fleur pendant cette période.</cible>
+    </paire>
+    <paire id = "348" vote = "5" moy = "2.5" scores = "2,0.5,1,5,4">
+        <source>Parallèlement à l'essaimage naturel, la transhumance des ruches est pratiquée lorsqu'un espace floral était entièrement exploité.</source>
+        <cible>Déplacer les ruches de plusieurs kilomètres pour permettre aux abeilles de profiter d'une floraison importante qui n'existe pas à proximité de leur premier emplacement : c'est la transhumance.</cible>
+    </paire>
+    <paire id = "349" vote = "4" moy = "1.7" scores = "1,0.5,0,4,3">
+        <source>Parallèlement à l'essaimage naturel, la transhumance des ruches est pratiquée lorsqu'un espace floral était entièrement exploité.</source>
+        <cible>Déplacer les ruches leur permet de profiter de plusieurs miellées importantes, et ainsi d'augmenter beaucoup leur production de miel.</cible>
+    </paire>
+    <paire id = "350" vote = "3" moy = "2" scores = "2,2,0,3,3">
+        <source>Pendant ces seize jours, la 1re brigade française libre (future 1re division française libre) du général Kœnig résista aux attaques des armées motorisées italiennes et allemandes (l'Afrika Korps), plus nombreuses, commandées par le général Rommel.</source>
+        <cible>Dans des conditions difficiles, les Français ralentissent pendant seize jours la progression de l'Afrika Korps du général allemand Erwin Rommel.</cible>
+    </paire>
+    <paire id = "351" vote = "5" moy = "3.4" scores = "5,2,1,5,4">
+        <source>Pendant le traitement, les fumeurs en surpoids ou obèses avaient tendance à perdre du poids avec le 20 mg, ce qui n'était pas le cas pour les fumeurs de poids normal.</source>
+        <cible>Pendant le traitement, les fumeurs en surpoids ou obèses avaient tendance à perdre du poids, ce qui n'était pas le cas pour les fumeurs de poids normal.</cible>
+    </paire>
+    <paire id = "352" vote = "2" moy = "2.4" scores = "2,1,2,3,4">
+        <source>Peu de données (43 participants) étaient disponibles concernant la détection d'un mauvais placement (la spécificité) en raison de la faible incidence des mauvais placements.</source>
+        <cible>Parmi les études incluses, seuls 43 participants avaient une sonde mal placée.</cible>
+    </paire>
+    <paire id = "353" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Plus tard, avec la maîtrise des techniques d'enruchage (soit l'action de peupler d'abeilles une ruche), apparurent les premières ruches artificielles, fabriquées comme des paniers à partir de matériaux végétaux, mais on ne sait pas exactement quand la domestication de l'abeille a eu lieu.</source>
+        <cible>Les ruches modernes contiennent des cadres faits pour contenir chacun un rayon de cire, ce qui permet de les retirer facilement pour les observer, les échanger ou en extraire le miel.</cible>
+    </paire>
+    <paire id = "354" vote = "0" moy = "0.8" scores = "1,0,0,0,3">
+        <source>Pour des raisons d'exploitation et de maintenance, la caténaire est découpée en cantons électriques isolés par des dispositifs de coupure particuliers franchissables par les pantographes.</source>
+        <cible>La transmission du courant électrique entre la machine et la caténaire se fait par l'intermédiaire d'un pantographe (bras articulé situé sur la motrice du train).</cible>
+    </paire>
+    <paire id = "355" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Pour l'année 2013, le budget municipal s'est élevé à plus de 10 millions d'euros :</source>
+        <cible>Cébazat est traversé par le Bédat (qui prend sa source dans les côtes de Clermont, à Chanat-La-Mouteyre) et va se jeter dans la Morge qui va à son tour se jeter dans l'Allier à Puy-Guillaume, et d'un bief communal.</cible>
+    </paire>
+    <paire id = "356" vote = "4" moy = "3.8" scores = "5,4,2,4,4">
+        <source>Pour les articles homonymes, voir Antoine et saint Antoine.</source>
+        <cible>Pour les sujets ou articles dits homonymes, voir : Saint Antoine.</cible>
+    </paire>
+    <paire id = "357" vote = "0" moy = "0.3" scores = "1,0.5,0,0,0">
+        <source>Pour les plus courageux, il sera même possible de se procurer auprès de ses abeilles la précieuse gelée royale.</source>
+        <cible>Une grande part d'entre eux vendent leurs produits sur les marchés, et proposent d'autres produits que le miel : du pollen, de la cire, de la propolis ou même de la gelée royale.</cible>
+    </paire>
+    <paire id = "358" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Pour ne pas faire chuter la température de la colonie, mieux vaut ne pas ouvrir la ruche avant le début du printemps avec au minimum 20°C.</source>
+        <cible>nettoyer les ruches, les changer, les repeindre, remplacer des cadres de vieille cire par des neufs</cible>
+    </paire>
+    <paire id = "359" vote = "0" moy = "0.8" scores = "1,0,0,0,3">
+        <source>Pourtant, on ne peut encore parler de biberon sérigraphié au sens moderne.</source>
+        <cible>Il est la plupart du temps constitué d'une sorte de bouteille sans goulot, en verre gradué (pour voir combien boit le bébé), et une tétine amovible en silicone ou en caoutchouc.</cible>
+    </paire>
+    <paire id = "360" vote = "0" moy = "1.2" scores = "2,0,0,0,4">
+        <source>Quatre essais (612 participants) comparaient l'acide ursodésoxycholique avec ou sans traitement supplémentaire à un placebo, à l'absence de traitement ou au même traitement supplémentaire.</source>
+        <cible>Deux essais (383 participants) comparaient le plasma frais congelé (PFC) avec ou sans traitement supplémentaire à l'absence de traitement ou au même traitement supplémentaire.</cible>
+    </paire>
+    <paire id = "361" vote = "5" moy = "4.7" scores = "5,4.5,4,5,5">
+        <source>Quatre essais contrôlés randomisés ont répondu aux critères d'inclusion, mais un essai a été exclu en raison d'une mauvaise méthodologie.</source>
+        <cible>Bien que quatre essais contrôlés randomisés aient répondu aux critères d'inclusion, un essai a été exclu en raison d'une mauvaise méthodologie.</cible>
+    </paire>
+    <paire id = "362" vote = "3" moy = "2.8" scores = "3,2,2,3,4">
+        <source>Réservé à l'adulte et à l'enfant à partir de 4 ans en raison du type d'anesthésie non adapté avant cet âge.</source>
+        <cible>Ce médicament est indiqué chez l'adulte et l'enfant de plus de 4 ans, pour l'anesthésie locale ou loco-régionale en pratique odonto-stomatologique.</cible>
+    </paire>
+    <paire id = "363" vote = "0" moy = "0.2" scores = "1,0,0,0,0">
+        <source>Réservoir dans l'abdomen de la reine contenant la semence des faux-bourdons qui servira à féconder les œufs d'ouvrières et de reines.</source>
+        <cible>Il est composé d'une reine, de plusieurs milliers d'ouvrières et d'un nombre de mâles appelés faux-bourdons, variable selon la saison.</cible>
+    </paire>
+    <paire id = "364" vote = "3" moy = "2" scores = "3,2,0,3,2">
+        <source>Résumer les meilleures preuves disponibles concernant les effets des anticholinergiques dans le traitement de l'hypersalivation par des neuroleptiques, autres que la clozapine chez les patients atteints de schizophrénie.</source>
+        <cible>Cependant, des médicaments anticholinergiques peuvent réduire la production de salive et le fait de baver et de saliver.</cible>
+    </paire>
+    <paire id = "365" vote = "1" moy = "1.6" scores = "1,4,0,2,1">
+        <source>Sa vie nous est connue par le récit qu'en a fait Athanase d'Alexandrie vers 360.</source>
+        <cible>Selon le récit de saint Athanase, rédigé vers 360, Antoine le Grand serait né en 251 et mort en 356 : il aurait donc vécu 105 ans.</cible>
+    </paire>
+    <paire id = "366" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Ses habitants sont appelés les Cébazaires.</source>
+        <cible>Le parc de la Prade dans le quartier de la Prade/Champcros avec les services techniques et services espaces verts municipaux.</cible>
+    </paire>
+    <paire id = "367" vote = "2" moy = "0.9" scores = "2,0.5,0,2,0">
+        <source>Si la saison n'est pas terminée, il remplace les cadres pleins par des cadres vides afin que les abeilles continuent la récolte.</source>
+        <cible>Une fois les cadres remplis de miel prélevés et sans abeilles, ils sont transportés pour les opérations suivantes et l'extraction du miel.</cible>
+    </paire>
+    <paire id = "368" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Si sa reine meurt, une colonie est dite « orpheline », et son espérance de vie chute rapidement.</source>
+        <cible>Quand les rayons contiennent beaucoup de miel, et surtout en fin de période de forte miellée, l'apiculteur va retirer une partie des cadres.</cible>
+    </paire>
+    <paire id = "369" vote = "4" moy = "3.5" scores = "4,4.5,2,3,4">
+        <source>Six études ont examiné les effets sur la quantité totale de sommeil et ont rapporté une relation positive et significative entre le début plus tardif des cours et la quantité de sommeil.</source>
+        <cible>Débuter les cours plus tard était associé à une augmentation de la durée du sommeil durant les jours scolaires pour les étudiants sur la base de la synthèse de deux études, et des preuves issues de six autres études ont également étayé la relation entre commencer les cours plus tard et une augmentation de la durée du sommeil.</cible>
+    </paire>
+    <paire id = "370" vote = "0" moy = "0.9" scores = "2,0.5,0,0,2">
+        <source>Son expérience lui a permis d'énoncer différentes règles de survie en mer, qui ont fait l'objet de vives critiques.</source>
+        <cible>En 1952, il monta à bord d'un canot pneumatique, L'Hérétique, pour effectuer des recherches sur les problèmes de survie en mer.</cible>
+    </paire>
+    <paire id = "371" vote = "5" moy = "4.4" scores = "5,4,3,5,5">
+        <source>Son utilisation est déconseillée chez les patients présentant une intolérance au fructose, un syndrome de malabsorption du glucose et du galactose ou un déficit en sucrase/isomaltase.</source>
+        <cible>L'utilisation de ce médicament est déconseillée chez les patients présentant une intolérance au fructose, un syndrome de malabsorption du glucose et du galactose ou un déficit en sucrase/isomaltase (maladies héréditaires rares).</cible>
+    </paire>
+    <paire id = "372" vote = "5" moy = "4.7" scores = "5,4.5,4,5,5">
+        <source>Son utilisation est déconseillée chez les patients présentant une intolérance au galactose, un déficit en lactase de LAPP ou un syndrome de malabsorption du glucose ou du galactose (maladies héréditaires rares).</source>
+        <cible>L'utilisation de ce médicament est déconseillée chez les patients présentant une intolérance au galactose, un déficit en lactase de LAPP ou un syndrome de malabsorption du glucose ou du galactose (maladies héréditaires rares).</cible>
+    </paire>
+    <paire id = "373" vote = "0" moy = "0.8" scores = "1,0,0,0,3">
+        <source>Sous sa forme la plus ancienne, de la fondation de Rome jusqu'au début de la République, les patriciens forment la classe aristocratique romaine.</source>
+        <cible>Souvent les aristocrates se disent descendants des familles fondatrices (plus ou moins légendaires) d'un territoire ou d'une cité dans l'Antiquité.</cible>
+    </paire>
+    <paire id = "374" vote = "5" moy = "4.2" scores = "5,4,3,4,5">
+        <source>Sur la base de 11 études portant sur 2152 participants, nous n'avons trouvé aucune différence entre les deux techniques d'anesthésie pour la mortalité à un mois.</source>
+        <cible>Nous n'avons trouvé aucune différence en termes de mortalité à un mois (11 essais, 2152 participants) entre les blocs neuroaxiaux et une anesthésie générale.</cible>
+    </paire>
+    <paire id = "375" vote = "4" moy = "4" scores = "5,4,3,4,4">
+        <source>Sur la base de ces preuves limitées, les ultrasons n'ont pas suffisamment de précision en tant que test unique pour confirmer la mise en place des sondes gastriques.</source>
+        <cible>Aucune des études incluses n'a indiqué si les ultrasons étaient suffisamment précis en tant que test unique pour confirmer le positionnement de la sonde gastrique pour une alimentation.</cible>
+    </paire>
+    <paire id = "376" vote = "5" moy = "4.7" scores = "5,4.5,4,5,5">
+        <source>Tout en maintenant la posologie de la metformine, le glimépiride sera commencé à faibles doses, puis augmenté progressivement jusqu'à des doses maximales, en fonction de l'équilibre métabolique recherché.</source>
+        <cible>Tout en maintenant la posologie de la metformine, le glimépiride sera commencé à faibles doses, puis augmenté jusqu'à la dose maximale journalière, en fonction de l'équilibre métabolique recherché.</cible>
+    </paire>
+    <paire id = "377" vote = "4" moy = "3.2" scores = "5,1,2,4,4">
+        <source>Toutefois, des études récentes ont montré que les inhibiteurs de la COX-2 sont associés à des risques cardiovasculaires accrus chez des populations de patients spécifiques.</source>
+        <cible>Toutefois, une autre littérature a montré que certains AINS de la COX-2 sont associés à un risque cardiovasculaire accru.</cible>
+    </paire>
+    <paire id = "378" vote = "5" moy = "4.6" scores = "5,5,4,4,5">
+        <source>Toutefois, en cas de passage systémique, des manifestations de toxicité neurologique, peuvent apparaître.</source>
+        <cible>Toutefois, en cas de passage systémique (par voie générale), des manifestations de toxicité neurologique, peuvent apparaître.</cible>
+    </paire>
+    <paire id = "379" vote = "1" moy = "1.8" scores = "4,1,0,3,1">
+        <source>Toutefois, on ignore si ces drains sont bénéfiques ou nocifs pour le patient.</source>
+        <cible>On ignore si ces drains contribuent ou pas à la cicatrisation des plaies.</cible>
+    </paire>
+    <paire id = "380" vote = "4" moy = "3" scores = "3,4,0,4,4">
+        <source>Trois études ont rendu compte de complications de longue durée.</source>
+        <cible>Trois études ont rendu compte du taux de complications de longue durée sans aucune différence statistiquement significative.</cible>
+    </paire>
+    <paire id = "381" vote = "5" moy = "4.8" scores = "5,5,4,5,5">
+        <source>Un essai a comparé le bandage élastique ACE WRAP avec un plâtre court du bras et un plâtre long du bras.</source>
+        <cible>Un essai a comparé un bandage élastique ACE WRAP, un plâtre court du bras et un plâtre long du bras.</cible>
+    </paire>
+    <paire id = "382" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Un exemplaire est répertorié dans le livre de l'Abbé Bidault (sans marque) et un autre dans l'ouvrage de Michel Schonn.</source>
+        <cible>Si c'est un biberon pour nourrir (donc du lait), il faut mettre dans de l'eau chaude de la poudre de lait, et ensuite mélanger avec la tétine vissée, en faisant rouler le biberon entre ses mains ;</cible>
+    </paire>
+    <paire id = "383" vote = "3" moy = "3.1" scores = "4,1.5,3,3,4">
+        <source>Un instrument chirurgical est un outil ou un appareil spécialement conçu pour réaliser les actions spécifiques liées à une opération chirurgicale, telles que modifier des tissus biologiques ou fournir une manière de les visualiser.</source>
+        <cible>Les instruments chirurgicaux sont des outils ou des appareils conçus pour réaliser des opérations chirurgicales.</cible>
+    </paire>
+    <paire id = "384" vote = "1" moy = "1.6" scores = "3,1,1,1,2">
+        <source>Un peu avant la fin des années 1880, commence une longue bataille contre ces engins de mort (appelés « murder bottles », les « bouteilles assassines » par les Anglais) car les chercheurs découvrent à cette époque les agents pathogènes des principales maladies infectieuses que le lait peut transmettre (tétanos, typhus, diphtérie, rouget du porc), d'où le constat que « le sein protège, le biberon rend malade, tue ou mène à la folie ».</source>
+        <cible>Une bataille contre le biberon commença juste avant la fin des années 1880.</cible>
+    </paire>
+    <paire id = "385" vote = "4" moy = "3.6" scores = "4,4,2,4,4">
+        <source>Un profil biophysique (PBP) comprend la surveillance échographique des mouvements du foetus, de la tonicité du foetus et de la respiration du foetus, l'évaluation échographique du volume de liquide avec ou sans évaluation de la fréquence cardiaque du foetus.</source>
+        <cible>Le profil biophysique se voit à l'échographie par l'évaluation 1) des mouvements du foetus, 2) de la tonicité, 3) de la respiration et 4) du volume du liquide amniotique qui entoure le bébé.</cible>
+    </paire>
+    <paire id = "386" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Un rayon fraîchement construit est jaune pâle, presque blanc, il devient jaune puis brun foncé en vieillissant.</source>
+        <cible>C'est une feuille de cire dite gauffrée, puisqu'elle a été moulée avec le même dessin que celui du fond des rayons que les abeilles construisent d'elles-mêmes.</cible>
+    </paire>
+    <paire id = "387" vote = "5" moy = "4.6" scores = "5,5,3,5,5">
+        <source>Un surdosage n'est pas attendu dans les conditions normales d'utilisation de cette solution en bain de bouche.</source>
+        <cible>Un surdosage n'est pas attendu dans les conditions normales d'utilisation de cette solution pour bain de bouche.</cible>
+    </paire>
+    <paire id = "388" vote = "5" moy = "4.4" scores = "5,4,3,5,5">
+        <source>Un syndrome main-pied persistant ou sévère (de grade 2 ou plus) peut induire une perte des empreintes digitales, ce qui peut avoir un impact sur l'identification du patient.</source>
+        <cible>La réaction cutanée main-pied peut entraîner une perte des empreintes digitales, ce qui peut avoir un impact sur votre identification par lecture de l'empreinte digitale.</cible>
+    </paire>
+    <paire id = "389" vote = "4" moy = "4" scores = "4,4,3,4,5">
+        <source>Un traitement de trois à six jours par des antibiotiques oraux a produit une efficacité comparable à celle du traitement d'une durée standard de 10 jours par la pénicilline orale chez les enfants atteints d'une pharyngite aiguë GABHS.</source>
+        <cible>Un traitement de trois à six jours par des antibiotiques oraux chez les enfants atteints d'une infection à streptocoque de la gorge est un traitement sûr ayant un effet comparable à celui du traitement par la pénicilline pendant la durée standard de 10 jours.</cible>
+    </paire>
+    <paire id = "390" vote = "4" moy = "3.6" scores = "4,4,2,4,4">
+        <source>Une alimentation au travers d'un tube placé dans la trachée peut entraîner une pneumonie grave.</source>
+        <cible>L'alimentation offerte au travers d'un tube placé par erreur dans la trachée (un conduit où passe l'air respiré) peut entraîner une pneumonie grave (une infection des poumons).</cible>
+    </paire>
+    <paire id = "391" vote = "4" moy = "3.9" scores = "5,3.5,3,4,4">
+        <source>Une amnésie antérograde ainsi que des altérations des fonctions psychomotrices sont susceptibles d'apparaître dans les heures qui suivent la prise.</source>
+        <cible>Des troubles de mémoire ainsi que des altérations des fonctions psychomotrices sont susceptibles d'apparaître dans les heures qui suivent la prise du médicament.</cible>
+    </paire>
+    <paire id = "392" vote = "0" moy = "0.7" scores = "1,0.5,0,0,2">
+        <source>Une caténaire est un ensemble de câbles porteurs en bronze ou en aluminium/acier et de fils conducteurs en cuivre pur à 98 % ou cuivre allié à l'étain ou au magnésium destinés à l'alimentation des moyens de transports électriques à captage du courant par dispositif aérien.</source>
+        <cible>En France, la majorité des trains et tramways sont alimentés par voie aérienne, donc par des caténaires.</cible>
+    </paire>
+    <paire id = "393" vote = "1" moy = "0.5" scores = "1,0.5,0,0,1">
+        <source>Une caténaire est un ensemble de câbles porteurs en bronze ou en aluminium/acier et de fils conducteurs en cuivre pur à 98 % ou cuivre allié à l'étain ou au magnésium destinés à l'alimentation des moyens de transports électriques à captage du courant par dispositif aérien.</source>
+        <cible>La transmission du courant électrique entre la machine et la caténaire se fait par l'intermédiaire d'un pantographe (bras articulé situé sur la motrice du train).</cible>
+    </paire>
+    <paire id = "394" vote = "3" moy = "3.2" scores = "3,4,3,3,3">
+        <source>Une centrale géothermique est un type de centrale électrique dont la source primaire est l'énergie géothermique.</source>
+        <cible>Une centrale géothermique produit de l'électricité grâce à la chaleur de la Terre (énergie géothermique), chaleur transformant l'eau des nappes souterraines en vapeur et faisant tourner une turbine et un alternateur.</cible>
+    </paire>
+    <paire id = "395" vote = "4" moy = "2.5" scores = "3,1.5,0,4,4">
+        <source>Une colonie d'abeilles se compose d'une reine unique (femelle), de nombreuses ouvrières (femelles), d'un harem de faux-bourdons (mâles), et de couvain (œufs, larves, et nymphes).</source>
+        <cible>Il est composé d'une reine, de plusieurs milliers d'ouvrières et d'un nombre de mâles appelés faux-bourdons, variable selon la saison.</cible>
+    </paire>
+    <paire id = "396" vote = "5" moy = "3.7" scores = "5,2.5,3,5,3">
+        <source>Une étude a fourni des informations concernant les résultats au niveau de la santé mentale et a rapporté une association entre une diminution des symptômes dépressifs et le début des cours plus tardif.</source>
+        <cible>Une étude a rapporté que les étudiants dans les écoles débutant les cours plus tard ont indiqué avoir moins de symptômes dépressifs par rapport à leurs pairs dans les écoles débutant plus tôt.</cible>
+    </paire>
+    <paire id = "397" vote = "4" moy = "3.7" scores = "4,4.5,3,3,4">
+        <source>Une étude a montré que chez des patients insuffisamment équilibrés par des doses maximales de metformine, l'association au glimépiride entraînait un meilleur contrôle glycémique par rapport à la metformine seule.</source>
+        <cible>Chez les patients insuffisamment équilibrés par des doses maximales de metformine bien tolérées, un traitement associant ce médicament à la metformine peut être instauré sous stricte surveillance médicale.</cible>
+    </paire>
+    <paire id = "398" vote = "5" moy = "4.2" scores = "5,2,4,5,5">
+        <source>Une hyperglycémie est une concentration en sucre dans le sang (glycémie) anormalement élevée.</source>
+        <cible>L'hyperglycémie désigne un taux de sucre dans le sang trop élevé.</cible>
+    </paire>
+    <paire id = "399" vote = "3" moy = "2.7" scores = "4,1.5,3,3,2">
+        <source>Une longueur anormale de la luette peut entraîner des ronflements et nécessiter une uvulo-palato-pharyngoplastie (intervention chirurgicale sur la luette et le palais) ou une uvulectomie.</source>
+        <cible>La luette trop détendue provoque le ronflement pendant le sommeil.</cible>
+    </paire>
+    <paire id = "400" vote = "0" moy = "0.7" scores = "1,2.5,0,0,0">
+        <source>Une ou plusieurs récolte de miel peuvent être effectuées, ainsi que la récolte d'autres produits de la ruche.</source>
+        <cible>Le travail de l'apiculteur consiste à fournir aux colonies d'abeilles un logement adapté (la ruche), dans lequel elles peuvent construire des rayons de cire ; et à récolter une partie du miel qu'elle produisent.</cible>
+    </paire>
+    <paire id = "401" vote = "0" moy = "0.7" scores = "1,0.5,0,0,2">
+        <source>Une ou plusieurs récolte de miel peuvent être effectuées, ainsi que la récolte d'autres produits de la ruche.</source>
+        <cible>Si l'apiculteur récolte le miel peu de temps après, il sera caractéristique de cette fleur.</cible>
+    </paire>
+    <paire id = "402" vote = "1" moy = "0.7" scores = "1,0.5,0,1,1">
+        <source>Une ou plusieurs récolte de miel peuvent être effectuées, ainsi que la récolte d'autres produits de la ruche.</source>
+        <cible>Une ruche produit de quelques kilogrammes de miel (ou aucun) à 40-50 kilogrammes ou plus par an, qui sont parfois produits sur une durée assez courte, d'un ou deux mois.</cible>
+    </paire>
+    <paire id = "403" vote = "0" moy = "0" scores = "0,0,0,0,0">
+        <source>Une pelote pèse environ quinze à vingt milligrammes, et l'abeille en transporte deux.</source>
+        <cible>Les autres plantes mellifères sont l'aubépine, la bruyère, le lierre, la luzerne, le mélilot, la reine-marguerite, la ronce, le sainfoin, le sarrasin, le tilleul, le trèfle blanc et la plupart des légumineuses.</cible>
+    </paire>
+    <paire id = "404" vote = "3" moy = "3.4" scores = "4,3,3,3,4">
+        <source>Une pharmacodépendance peut survenir à doses thérapeutiques et/ou chez des patients sans facteur de risque individualisé.</source>
+        <cible>La dépendance peut survenir même en l'absence de ces facteurs favorisants.</cible>
+    </paire>
+    <paire id = "405" vote = "0" moy = "1.1" scores = "3,1.5,0,1,0">
+        <source>Une piqûre d'abeille n'est normalement pas dangereuse (sauf en cas d'allergie), mais une attaque massive peut être mortelle.</source>
+        <cible>Mais étant piqué de temps en temps, son corps s'est en général accoutumé : une piqûre est alors toujours douloureuse, mais il n'enflera pas et la douleur pourra passer en quelques minutes.</cible>
+    </paire>
+    <paire id = "406" vote = "0" moy = "0.3" scores = "1,0.5,0,0,0">
+        <source>Une piqûre d'abeille n'est normalement pas dangereuse (sauf en cas d'allergie), mais une attaque massive peut être mortelle.</source>
+        <cible>Pourtant, il se peut qu'une personne, même un apiculteur, devienne allergique aux piqûres d'abeilles, c'est-à-dire qu'il ait une réaction de plus en plus forte avec le nombre des piqûres.</cible>
+    </paire>
+    <paire id = "407" vote = "3" moy = "1.9" scores = "2,0.5,1,3,3">
+        <source>Une seule colonie occupe une seule ruche.</source>
+        <cible>Quant au mot ruche, il désigne soit seulement le logement des abeilles, soit ce logement et la colonie qui l'occupe.</cible>
+    </paire>
+    <paire id = "408" vote = "4" moy = "4" scores = "4,4,3,5,4">
+        <source>Une varicocèle est un réseau de vaisseaux sanguins distendus dans le scrotum, généralement sur le côté gauche, provoqué par une dilatation de la veine spermatique.</source>
+        <cible>La varicocèle est une dilatation (élargissement) des veines le long du cordon spermatique (cordon qui suspend le testicule) dans le scrotum.</cible>
+    </paire>
+    <paire id = "409" vote = "5" moy = "3.8" scores = "4,2,3,5,5">
+        <source>Vénéré par de nombreux visiteurs, Antoine leur donne chaque fois des conseils de sagesse, les invitant à la prière plutôt qu'à la violence.</source>
+        <cible>Antoine donne à ses visiteurs des conseils de sagesse, les invitant à la prière plutôt qu'à la violence.</cible>
+    </paire>
+    <paire id = "410" vote = "0" moy = "0.4" scores = "0,0,0,0,2">
+        <source>Vêtu d'une haire en crin, il partage son temps entre la prière et le travail auprès de la cabane d'un vieil ascète qui l'initie à la vie érémitique.</source>
+        <cible>Né en Égypte, dans le Fayoum, ce fervent chrétien prend l'Évangile à la lettre et distribue tous ses biens aux pauvres, avant de partir dans le désert et vivre en ermite.</cible>
+    </paire>
+</doc>
